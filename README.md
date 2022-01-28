@@ -1,4 +1,4 @@
-# Sight & Sounds Poll Data
+# Sight & Sound Poll Data
 Data from the _Sound & Sound_ polls of the greatest films of all time conducted every decade.
 
 For the 2012 poll, here is the time it took for me to scrape:
