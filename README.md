@@ -1,2 +1,2 @@
-# sight-and-sound-poll
-Data from the Sight &amp; Sound Poll of the greatest films of all time
+# Sight & Sounds Poll Data
+Data from the _Sound & Sound_ polls of the greatest films of all time conducted every decade.
