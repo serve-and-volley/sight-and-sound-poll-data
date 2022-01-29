@@ -6,7 +6,7 @@ For the 2012 poll, here is the time it took for me to scrape:
 - the data of the all 12,060 votes (some voters voted for more than 10 movies) [1.26 MB]
 
 ```bash
-$ time python3 voters_and_votes_2012.py
+$ time python3 scrape_votes_2012.py
 ['Gulnara Abikeyeva', '558', 'programmer', 'Kazakhstan', 'Female', 'critics poll', 'Art director, International Eurasia Film Festival', 'Kazakhstan', 10]
 ['Lenny Abrahamson', '1033', 'Director', 'Ireland', 'Male', 'directors poll', 'Garage; Adam and Paul', 'Ireland', 10]
 ['Mehmet Açar', '316', 'critic', 'Turkey', 'Male', 'critics poll', 'Critic, Haberturk', 'Turkey', 10]
