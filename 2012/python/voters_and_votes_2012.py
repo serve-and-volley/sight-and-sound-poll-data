@@ -46,7 +46,10 @@ votes_url_prefix = "http://www.bfi.org.uk/films-tv-people/sightandsoundpoll2012/
 
 # Define arrays to store the data
 voters = []
+voters.append(['voter_name', 'voter_id', 'voter_url', 'voter_role', 'voter_nationality', 'voter_gender', 'poll_category', 'voter_title', 'film_count', 'voter_comments'])
+
 votes = []
+votes.append(['voter_id', 'film_title', 'film_url', 'film_id', 'film_year', 'film_director'])
 
 for table in range(1, table_count + 1):
     row_count_xpath = "//div[@class='sas-poll-az-list-group'][" + str(table) + "]/table/tr"
