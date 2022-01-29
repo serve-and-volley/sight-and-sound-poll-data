@@ -17,10 +17,7 @@ $ time python3 voters_and_votes_2012.py
 ['Pedro Aguilera', '1115', 'Director', 'Spain', 'Male', 'directors poll', 'La influencia; Shipwreck', 'Spain', 10]
 ['Ashim Ahluwalia', '886', 'Director', 'India', 'Male', 'directors poll', 'Miss Lovely; John & Jane ', 'India', 10]
 ['Daisuke Akasaka', '704', 'Critic', 'Japan', 'Male', 'critics poll', 'Critic', 'Japan', 10]
-```
 ⋮
-
-```bash
 ['Chadi Zeneddine', '909', 'Director', 'Lebanon', 'Male', 'directors poll', 'Falling from Earth ', 'Lebanon', 10]
 ['Ling Zhang', '392', 'academic', 'China', 'Male', 'critics poll', 'Ph.D student, Department of Cinema and Media Studies\nUniversity of Chicago', 'China', 10]
 ["Cui Zi'en", '919', 'Director', 'China', 'Male', 'directors poll', "Men and Women; Queer China, 'Comrade China'", 'China', 10]
