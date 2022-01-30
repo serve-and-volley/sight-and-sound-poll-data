@@ -33,6 +33,8 @@ def array2csv(array, filename):
         mywriter.writerow(row)
     csv_out.close()
 
+# https://www2.bfi.org.uk/films-tv-people/sightandsoundpoll2012
+
 # URL to scrape voter info
 voter_url = "http://www.bfi.org.uk/films-tv-people/sightandsoundpoll2012/voters"
 voter_tree = html_parse_tree(voter_url)
@@ -137,12 +139,12 @@ for table in range(1, table_count + 1):
         film_count = len(film_count_parsed)
 
         # Add data to voters array        
-        voters.append([voter_name, voter_id, voter_url, voter_role, voter_nationality, voter_gender, poll_category, voter_title, film_count, voter_comments])
+        voters.append([voter_id, voter_name, voter_url, voter_role, voter_nationality, voter_gender, poll_category, voter_title, film_count, voter_comments])
         # Write to CSV
         array2csv(voters, 'voters_2012')  
 
         # Output to command line
-        print([voter_name, voter_id, voter_role, voter_nationality, voter_gender, poll_category, voter_title, voter_nationality, film_count])
+        print([voter_id, voter_name, voter_role, voter_nationality, voter_gender, poll_category, voter_title, voter_nationality, film_count])
         
         # Scrape the votes
         for film in range(1, film_count + 1):
