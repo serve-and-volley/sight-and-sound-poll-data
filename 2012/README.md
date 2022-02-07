@@ -8,32 +8,31 @@ For the 2012 poll, here is the time it took for me to scrape:
 ```bash
 $ time python3 scrape_votes_2012.py
 
-['558', 'Gulnara Abikeyeva', 'programmer', 'Kazakhstan', 'Female', 'critics poll', 'Art director, International Eurasia Film Festival', 'Kazakhstan', 10]
-['1033', 'Lenny Abrahamson', 'Director', 'Ireland', 'Male', 'directors poll', 'Garage; Adam and Paul', 'Ireland', 10]
-['316', 'Mehmet Açar', 'critic', 'Turkey', 'Male', 'critics poll', 'Critic, Haberturk', 'Turkey', 10]
-['1090', 'Newton Aduaka', 'Director', 'Nigerla', 'Male', 'directors poll', 'Ezra; Rage', 'Nigerla', 10]
-['624', 'Eva af Geijerstam', 'critic', 'Sweden', 'Female', 'critics poll', 'Critic', 'Sweden', 10]
-['444', 'Kaleem Aftab', 'critic', 'UK', 'Male', 'critics poll', 'Writer, the Independent, the National, Interview', 'UK', 10]
-['855', 'Alejandro Agresti', 'Director', 'Argentina', 'Male', 'directors poll', 'Valentin; The Lake House', 'Argentina', 10]
-['1115', 'Pedro Aguilera', 'Director', 'Spain', 'Male', 'directors poll', 'La influencia; Shipwreck', 'Spain', 10]
-['886', 'Ashim Ahluwalia', 'Director', 'India', 'Male', 'directors poll', 'Miss Lovely; John & Jane ', 'India', 10]
-['704', 'Daisuke Akasaka', 'Critic', 'Japan', 'Male', 'critics poll', 'Critic', 'Japan', 10]
-
+['558', 'Gulnara Abikeyeva', 'gulnara abikeyeva', 'critics poll', 'programmer', 'Art director, International Eurasia Film Festival', 'Kazakhstan', 'female', 10]
+['1033', 'Lenny Abrahamson', 'lenny abrahamson', 'directors poll', 'Director', 'Garage; Adam and Paul', 'Ireland', 'male', 10]
+['316', 'Mehmet Açar', 'mehmet acar', 'critics poll', 'critic', 'Critic, Haberturk', 'Turkey', 'male', 10]
+['1090', 'Newton Aduaka', 'newton aduaka', 'directors poll', 'Director', 'Ezra; Rage', 'Nigerla', 'male', 10]
+['624', 'Eva af Geijerstam', 'eva af geijerstam', 'critics poll', 'critic', 'Critic', 'Sweden', 'female', 10]
+['444', 'Kaleem Aftab', 'kaleem aftab', 'critics poll', 'critic', 'Writer, the Independent, the National, Interview', 'UK', 'male', 10]
+['855', 'Alejandro Agresti', 'alejandro agresti', 'directors poll', 'Director', 'Valentin; The Lake House', 'Argentina', 'male', 10]
+['1115', 'Pedro Aguilera', 'pedro aguilera', 'directors poll', 'Director', 'La influencia; Shipwreck', 'Spain', 'male', 10]
+['886', 'Ashim Ahluwalia', 'ashim ahluwalia', 'directors poll', 'Director', 'Miss Lovely; John & Jane ', 'India', 'male', 10]
+['704', 'Daisuke Akasaka',  'daisuke akasaka', 'critics poll', 'Critic','Critic', 'Japan', 'male', 10]
 ⋮
-['909', 'Chadi Zeneddine', 'Director', 'Lebanon', 'Male', 'directors poll', 'Falling from Earth ', 'Lebanon', 10]
-['392', 'Ling Zhang', 'academic', 'China', 'Male', 'critics poll', 'Ph.D student, Department of Cinema and Media Studies\nUniversity of Chicago', 'China', 10]
-['919', "Cui Zi'en", 'Director', 'China', 'Male', 'directors poll', "Men and Women; Queer China, 'Comrade China'", 'China', 10]
-['94', 'Slavoj Zizek', 'critic', 'Slovenia', 'Male', 'critics poll', 'Philosopher and cultural critic', 'Slovenia', 10]
-['2', 'Zsolt Gyenge', 'academic', 'Hungary', 'Male', 'critics poll', 'Assistant professor, Moholy-Nagy University of Art and Design, Budapest', 'Hungary', 10]
-['362', 'Marco Ettore Zucchi', 'critic', 'Switzerland', 'Male', 'critics poll', 'Film critic, RSI Radiotelevisione svizzera', 'Switzerland', 10]
-['578', 'Gertjan Zuilhof', 'programmer', 'Netherlands', 'Male', 'critics poll', 'Art historian; critic; curator and programmer for International Film Festival Rotterdam', 'Netherlands', 10]
-['873', 'Andrzej Żuławski', 'Director', 'Poland', 'Male', 'directors poll', "Possession; L'important c'est d'aimer ", 'Poland', 10]
-['116', 'Santos Zunzunegui', 'academic', 'Spain', 'Male', 'critics poll', 'Professor of History of Cinema, Basque Country University, UPV/EHU', 'Spain', 10]
-['872', 'Andrey Zvyagintsev', 'Director', 'Russia', 'Male', 'directors poll', 'The Return; The Banishment', 'Russia', 10]
+['909', 'Chadi Zeneddine', 'chadi zeneddine', 'directors poll', 'Director', 'Falling from Earth ', 'Lebanon', 'male', 10]
+['392', 'Ling Zhang', 'ling zhang', 'critics poll', 'academic', 'Ph.D student, Department of Cinema and Media Studies\nUniversity of Chicago', 'China', 'male', 10]
+['919', "Cui Zi'en", "cui zi'en", 'directors poll', 'Director', "Men and Women; Queer China, 'Comrade China'", 'China', 'male', 10]
+['94', 'Slavoj Zizek', 'slavoj zizek', 'critics poll', 'critic', 'Philosopher and cultural critic', 'Slovenia', 'male', 10]
+['2', 'Zsolt Gyenge', 'zsolt gyenge', 'critics poll', 'academic', 'Assistant professor, Moholy-Nagy University of Art and Design, Budapest', 'Hungary', 'male', 10]
+['362', 'Marco Ettore Zucchi', 'marco ettore zucchi', 'critics poll', 'critic', 'Film critic, RSI Radiotelevisione svizzera', 'Switzerland', 'male', 10]
+['578', 'Gertjan Zuilhof', 'gertjan zuilhof', 'critics poll', 'programmer', 'Art historian; critic; curator and programmer for International Film Festival Rotterdam', 'Netherlands', 'male', 10]
+['873', 'Andrzej Żuławski', 'andrzej zulawski', 'directors poll', 'Director', "Possession; L'important c'est d'aimer ", 'Poland', 'male', 10]
+['116', 'Santos Zunzunegui', 'santos zunzunegui', 'critics poll', 'academic', 'Professor of History of Cinema, Basque Country University, UPV/EHU', 'Spain', 'male', 10]
+['872', 'Andrey Zvyagintsev', 'andrey zvyagintsev', 'directors poll', 'Director', 'The Return; The Banishment', 'Russia', 'male', 10]
 
-real    18m37.720s
-user    2m1.502s
-sys     0m6.656s
+real    14m15.454s
+user    1m24.433s
+sys     0m5.708s
 ```
 
 More documentation forthcoming.
