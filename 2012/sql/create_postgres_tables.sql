@@ -6,7 +6,7 @@ CREATE TABLE voters_2012 (
     voter_role                      varchar,
     voter_title                     varchar,
     voter_nationality               varchar,
-    voter_gener                     varchar,
+    voter_gender                    varchar,
     film_count                      integer,
     voter_comments                  varchar
 );
