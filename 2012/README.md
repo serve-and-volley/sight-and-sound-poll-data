@@ -3,7 +3,7 @@ Data from the _Sound & Sound_ polls of the greatest films of all time conducted 
 
 For the 2012 poll, here is the time it took for me to scrape:
 - the data of 1,205 voters (directors and critics) [[652 KB](https://github.com/serve-and-volley/sight-and-sound-poll-data/blob/main/2012/csv_raw_data/voters_2012.csv)]
-- the data of the all 12,060 votes (some voters voted for more than 10 movies) [[1.2 MB](https://github.com/serve-and-volley/sight-and-sound-poll-data/blob/main/2012/csv_raw_data/votes_2012.csv)]
+- the data of the all 12,060 votes (some voters voted for more or less than 10 movies) [[1.2 MB](https://github.com/serve-and-volley/sight-and-sound-poll-data/blob/main/2012/csv_raw_data/votes_2012.csv)]
 
 ```bash
 $ time python3 scrape_votes_2012.py
@@ -35,7 +35,7 @@ user    1m24.433s
 sys     0m5.708s
 ```
 
-- The data of 2,421 films that have BFI film IDs:
+- The data of 2,421 films that have BFI film IDs (some film titles do not have BFI film IDs) [[600 KB](https://github.com/serve-and-volley/sight-and-sound-poll-data/blob/main/2012/csv_raw_data/films_2012.csv)]
 
 ```bash
 $ time python3 scrape_films_2012.py
