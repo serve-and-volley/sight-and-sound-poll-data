@@ -1,0 +1,859 @@
+film_id,votes,normed_film_title,film_director,film_year,country,genre,media_type,actors_raw
+4ce2b6b9caca4,37,Vertigo,Alfred Hitchcock,1958,USA,Thriller,Film,James Stewart | Kim Novak | Barbara Bel Geddes
+4ce2b6b8908e4,27,Tokyo Story,"Ozu Yasujirô ",1953,Japan,Drama,Film,Chishu Ryu | Chieko Higashiyama | Setsuko Hara
+4ce2b6a7a801b,26,Citizen Kane,Orson Welles,1941,USA,Drama,Film,Joseph Cotten | Dorothy Comingore | Agnes Moorehead
+4ce2b754db651,20,Passion of Joan of Arc,Carl Theodor Dreyer,1927,France,Biopic | Historical drama,Film,Renée Falconetti | Eugène-Charles-Joseph Silvain | Maurice Schutz
+4ce2b6b7568ee,20,Sunrise,F. W. Murnau,1927,USA,Drama,Film,George O'Brien | Janet Gaynor | Margaret Livingston
+4ce2b6a439bc9,18,L'Atalante,Jean Vigo,1934,France,Drama,Film,Michel Simon | Dita Parlo | Jean Dasté
+4ce2b6a21d217,18,Man with a Movie Camera,Dziga Vertov,1929,USSR,Documentary,Film,Mikhail Kaufman
+4ce2b6b41d658,17,La Règle du jeu,Jean Renoir,1939,France,Drama,Film,Nora Gregor | Paulette Dubost | Mila Parély
+4ce2b6b6036b6,17,Singin' in the Rain,Stanley Donen/Gene Kelly,1951,USA,Comedy | Musical,Film,Gene Kelly | Donald O'Connor | Debbie Reynolds
+4ce2b8485aac9,15,In The Mood For Love,Wong Kar Wai,2000,France | Hong Kong,Romance | Drama,Film,Maggie Cheung Man-yuk | Tony Leung Chiu-wai | Rebecca Pan Di-hua
+4ce2b73116007,15,"Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",Chantal Akerman,1975,Belgium | France,Drama,Film,Delphine Seyrig | Jan Decorte | Henri Storck
+4ce2b6ab4237b,15,The Godfather: Part I,Francis Ford Coppola,1972,USA,Gangster,Film,Marlon Brando | Al Pacino | James Caan
+4ce2b6a68bd9d,15,Battleship Potemkin,Sergei M Eisenstein,1925,USSR,Historical drama,Film,Aleksandr Antonov | Vladimir Barsky | Grigori V. Aleksandrov
+4ce2b6a44b82c,14,Au Hasard Balthazar,Robert Bresson,1966,France | Sweden,Drama,Film,Anne Wiazemsky | Walter Green | François Lafarge
+4ce2b6b25bb2b,14,8½,Federico Fellini,1963,France | Italy,Drama,Film,Marcello Mastroianni | Claudia Cardinale | Anouk Aimée
+4ce2b6bfd1ebb,14,Breathless,Jean-Luc Godard,1960,France,Film noir,Film,Jean-Paul Belmondo | Jean Seberg | Henri-Jacques Huet
+4ce2b6b54abdf,14,The Searchers,John Ford,1956,USA,Western,Film,John Wayne | Jeffrey Hunter | Vera Miles
+4ce2b6b7433c1,13,Andrei Rublev,Andrei Tarkovsky,1966,USSR,Biopic,Film,Anatoli Solonitsyn | Ivan Lapikov | Nikolai Grinko
+4ce2b6b9450a5,13,2001: A Space Odyssey,Stanley Kubrick,1968,United Kingdom | USA,Science Fiction,Film,Keir Dullea | Gary Lockwood | William Sylvester
+4ce2b77b4418a,12,Touki Bouki,Djibril Diop Mambéty,1973,Senegal,Drama,Film,Magaye Niang | Mareme Niang | Christophe N'doulabia
+4ce2b6ab42667,12,The Godfather: Part II,Francis Ford Coppola,1974,USA,Gangster,Film,Al Pacino | Robert Duvall | Diane Keaton
+4ce2b6b049967,12,Le mépris,Jean-Luc Godard,1963,France | Italy,Drama,Film,Brigitte Bardot | Michel Piccoli | Jack Palance
+4ce2b6b5b6382,11,Seven Samurai,Akira Kurosawa,1954,Japan,Drama,Film,Takashi Shimura | Toshiro Mifune | Seiji Miyaguchi
+4ce2b6b0544c6,11,Metropolis,Fritz Lang,1927,Germany,Science Fiction,Film,Brigitte Helm | Alfred Abel | Gustav Fröhlich
+4ce2b8379038e,11,Mulholland Dr,David Lynch,2001,France | USA,Thriller,Film,Justin Theroux | Naomi Watts | Laura Harring
+4ce2b6aadb03d,11,The Leopard,Luchino Visconti,1963,France | Italy,Period drama,Film,Burt Lancaster | Claudia Cardinale | Alain Delon
+4ce2b76e98a5c,10,Some Like It Hot,Billy Wilder,1959,USA,Comedy,Film,Marilyn Monroe | Tony Curtis | Jack Lemmon
+4ce2b6b0511e9,10,Meshes of the Afternoon,Maya Deren/Alexander Hammid,1943,USA,Drama,Film,Maya Deren | Alexander Hackenschmied
+4ce2b6955c6ba,10,Rear Window,Alfred Hitchcock,1954,USA,Thriller,Film,James Stewart | Grace Kelly | Wendell Corey
+4ce2b6a498bd1,10,Late Spring,"Ozu Yasujirô ",1949,Japan,Drama,Film,Chishu Ryu | Setsuko Hara | Yumeji Tsukioka
+4ce2b6b2deaa5,10,Persona,Ingmar Bergman,1966,Sweden,Drama,Film,Bibi Andersson | Liv Ullmann | Margareta Krook
+4ce2b6bb90873,9,Mirror,Andrei Tarkovsky,1974,USSR,Biopic,Film,Margarita Terekhova | Ignat Daniltsev | Maria Tarkovskaya
+4ce2b6f24787d,9,The Battle of Algiers,Gillo Pontecorvo,1966,Algeria | Italy,Drama,Film,Brahim Haggiag | Jean Martin | Yacef Sâadi
+4ce2b6bf3bbfd,9,Stalker,Andrei Tarkovsky,1979,USSR,Science Fiction | Fantasy,Film,Aleksandr Kaidanovsky | Anatoli Solonitsyn | Nikolai Grinko
+4ce2b76b0507b,9,Shoah,Claude Lanzmann,1985,France,Documentary,Film,
+4ce2b6b3b75b7,8,The 400 Blows,François Truffaut,1959,France,Drama,Film,Jean-Pierre Léaud | Claire Maurier | Albert Rémy
+4ce2b7b9372f0,8,La Jetée,Chris Marker,1962,France,Science Fiction,Film,Jean Négroni | Hélène Chatelain | Davos Hanich
+4ce2b6b757144,8,Sunset Blvd.,Billy Wilder,1950,USA,Drama,Film,William Holden | Gloria Swanson | Erich von Stroheim
+4ce2b69562aa2,8,Apocalypse Now,Francis Ford Coppola,1979,USA,War,Film,Marlon Brando | Robert Duvall | Martin Sheen
+4ce2b7a39630e,8,Close-Up,Abbas Kiarostami,1989,Iran,Documentary drama,Film,Hossein Sabziyan | Mohsen Makhmalbaf | Abolfazl Ahankhah
+4ce2b8203c690,8,Beau Travail,Claire Denis,1998,France,Drama,Film,Denis Lavant | Michel Subor | Grégoire Colin
+4ce2b6ae61fec,8,The Bicycle Thieves,Vittorio de Sica,1948,Italy,Drama,Film,Lamberto Maggiorani | Enzo Staiola | Lianella Carell
+4ce2b6b6466ce,8,Wild Strawberries,Ingmar Bergman,1957,Sweden,Drama,Film,Victor Sjöström | Bibi Andersson | Ingrid Thulin
+4ce2b6b3ec3fe,8,Rashomon,Akira Kurosawa,1950,Japan,Crime | Period drama,Film,Toshiro Mifune | Machiko Kyo | Takashi Shimura
+4ce2b6aae85f3,8,The General,Buster Keaton,1926,USA,Comedy | Period drama,Film,Buster Keaton | Jack Lowe | Jack Hanlon
+4ce2b69ac89d8,8,Blade Runner,Ridley Scott,1982,Hong Kong | USA,Science Fiction,Film,Harrison Ford | Rutger Hauer | Sean Young
+4ce2b6a6e45a7,8,L'Avventura,Michelangelo Antonioni,1960,France | Italy,Drama,Film,Gabriele Ferzetti | Monica Vitti | Lea Massari
+4ce2b6ad028a9,7,Imitation of Life,Douglas Sirk,1959,USA,Melodrama,Film,Lana Turner | John Gavin | Sandra Dee
+4ce2b6b61b4e8,7,The Seventh Seal,Ingmar Bergman,1957,Sweden,Fantasy | Period drama,Film,Max von Sydow | Inga Landgré | Gunnar Björnstrand
+4ce2b6ffc05d8,7,Un chien andalou,Luis Buñuel,1928,France,Artists' Moving Image,Film,Simone Mareuil | Pierre Batcheff | Jaime Miravilles
+4ce2b847b975d,7,A One and a Two,Edward Yang,1999,Japan | Taiwan,Drama,Film,Wu Nien-chen | Issey Ogata | Elaine Jin
+4ce2b6aea50ea,7,Lawrence of Arabia,David Lean,1962,United Kingdom,Biopic | War,Film,Alec Guinness | Anthony Quinn | Jack Hawkins
+4ce2b6a99de5f,7,The Spirit of the Beehive,Víctor Erice,1973,Spain,Drama,Film,Fernando Fernán Gómez | Teresa Gimpera | Ana Torrent
+4ce2b7663dc08,7,Sans Soleil,Chris Marker,1982,France,Documentary,Film,Florence Delay | Alexandra Stewart
+4ce2b6ae66430,7,The Lady Eve,Preston Sturges,1941,USA,Comedy | Romance,Film,Barbara Stanwyck | Henry Fonda | Charles Coburn
+4ce2b6b657a6a,7,Solaris,Andrei Tarkovsky,1972,USSR,Science Fiction,Film,Natal'ya Bondarchuk | Donatas Banionis | Yuri Järvet
+4ce2b6b3291db,7,Playtime,Jacques Tati,1967,France,Comedy,Film,Jacques Tati | Barbara Dennek | Rita Maïden
+4ce2b6b4b0e0c,7,Amarcord,Federico Fellini,1972,France | Italy,Drama,Film,Pupella Maggio | Armando Brancia | Magali Noël
+4ce2b6e73c109,6,The Colour of Pomegranates,Sergei Parajanov,1968,USSR,Biopic | Artists' Moving Image | Historical drama,Film,Sofiko Chiaureli | Melkop Alekyan | Vilen Galstyan
+4ce2b7c1b61df,6,Three Colours: Blue,Krzysztof Kieslowski,1993,Switzerland | France | Poland,Drama,Film,Juliette Binoche | Benoît Régent | Florence Pernel
+4ce2b6b824610,6,The Third Man,Carol Reed,1949,United Kingdom,Thriller,Film,Carol Reed | Joseph Cotten | Alida Valli
+4ce2b693ec5ed,6,E.T.,Steven Spielberg,1982,USA,Science Fiction,Film,Dee Wallace-Stone | Peter Coyote | Robert MacNaughton
+4ce2b6a90d39d,6,La dolce vita,Federico Fellini,1960,France | Italy,Drama,Film,Marcello Mastroianni | Anita Ekberg | Anouk Aimée
+4ce2b69415af8,6,Fanny and Alexander,Ingmar Bergman,1984,France | Sweden | Federal Republic of Germany,Drama,Television,Kristina Adolphson | Börje Ahlstedt | Pernilla Allwin
+4ce2b6b94daff,6,Ugetsu Monogatari,Mizoguchi Kenji,1953,Japan,Romance,Film,Masayuki Mori | Kinuyo Tanaka | Ichisaburo Sawamura
+4ce2b6a7da289,6,A Man Escaped,Robert Bresson,1956,France,Drama,Film,François Leterrier | Charles Le Clainche | Maurice Beerblock
+4ce2b74e11d41,6,Nosferatu,F. W. Murnau,1922,Germany,Horror,Film,Max Schreck | Alexander Granach | Gustav von Wangenheim
+4ce2b6ba49e47,6,Wavelength,Michael Snow,1967,Canada,Artists' Moving Image,Film,Hollis Frampton | Amy Taubin | Joyce Wieland
+4ce2b6bb2414d,6,A Woman Under the Influence,John Cassavetes,1974,USA,Drama,Film,Peter Falk | Gena Rowlands | Fred Draper
+4ce2b6bbbf1e2,6,Modern Times,Charles Chaplin,1936,USA,Comedy,Film,Charles Chaplin | Paulette Goddard | Henry Bergman
+4ce2b6ac59a0b,6,Hiroshima Mon Amour,Alain Resnais,1959,France | Japan,Romance | Drama,Film,Emmanuele Riva | Eiji Okada | Stella Dassas
+4ce2b7c5c1618,6,Pulp Fiction,Quentin Tarantino,1994,USA,Crime,Film,John Travolta | Samuel L. Jackson | Uma Thurman
+4ce2b6bfdd960,6,Fear Eats the Soul,Rainer Werner Fassbinder,1974,Federal Republic of Germany,Melodrama,Film,Brigitte Mira | El Hedi ben Salem | Irm Hermann
+4ce2b6b0210f1,6,A Matter of Life and Death,Michael Powell/Emeric Pressburger,1946,United Kingdom,Fantasy | War,Film,David Niven | Roger Livesey | Raymond Massey
+4ce2b7d2993a2,6,Sátántangó,Béla Tarr,1994,Switzerland | Germany | Hungary,Drama,Film,Mihály Ráday | Mihály Víg | Putyi Horváth
+4ce2b6b774f0f,5,Sweet Smell of Success,Alexander Mackendrick,1957,USA,Drama,Film,Burt Lancaster | Tony Curtis | Susan Harrison
+4ce2b6b7bc1b8,5,Taxi Driver,Martin Scorsese,1976,USA,Drama,Film,Robert De Niro | Jodie Foster | Albert Brooks
+4ce2b848e226c,5,The Werckmeister Harmonies,Béla Tarr,2000,Switzerland | France | Germany | Hungary | Italy,Drama,Film,Lars Rudolph | Peter Fitz | Hanna Schygulla
+4ce2b6f6c85c4,5,Blue Velvet,David Lynch,1986,USA,Drama,Film,Kyle MacLachlan | Isabella Rossellini | Dennis Hopper
+4ce2b6b2b59cc,5,Pather Panchali,Satyajit Ray,1955,India,Drama,Film,Kanu Banerjee | Karuna Banerjee | Subir Banerjee
+4ce2b6bf4e912,5,North by Northwest,Alfred Hitchcock,1959,USA,Thriller,Film,Cary Grant | Eva Marie Saint | James Mason
+4ce2b6b30995b,5,Pickpocket,Robert Bresson,1959,France,Drama,Film,Martín Lasalle | Marika Green | Jean Pelegri
+4ce2b6b03bb00,5,Memories of Underdevelopment,Tomás Gutiérrez Alea,1968,Cuba,Drama,Film,Sergio Corrieri | Daysi Granados | Eslinda Núñez
+4ce2b8b17e6c2,5,Hidden,Michael Haneke,2004,Austria | France | Germany | Italy,Thriller | Drama,Film,Daniel Auteuil | Juliette Binoche | Maurice Bénichou
+4ce2b6b416bde,5,The Red Shoes,Michael Powell/Emeric Pressburger,1948,United Kingdom,Drama,Film,Anton Walbrook | Marius Goring | Moira Shearer
+4ce2b7b54d000,5,The Piano,Jane Campion,1992,Australia | France,Romance | Period drama,Film,Holly Hunter | Harvey Keitel | Sam Neill
+4ce2b6a66b375,5,Brief Encounter,David Lean,1945,United Kingdom,Romance,Film,Celia Johnson | Trevor Howard | Stanley Holloway
+4ce2b6b310bc0,5,Pierrot le Fou,Jean-Luc Godard,1965,France | Italy,Crime,Film,Jean-Paul Belmondo | Anna Karina | Dirk Sanders
+4ce2b6b9d14d8,5,Journey to Italy,Roberto Rossellini,1954,France | Italy,Drama,Film,Giacomo Rondinella | Ingrid Bergman | George Sanders
+10008,5,The Turin Horse,Béla Tarr,,,,,
+4ce2b6b02dc27,4,Meet Me In St. Louis,Vincente Minnelli,1944,USA,Musical,Film,Judy Garland | Margaret O'Brien | Mary Astor
+4ce2b6a453c5b,4,A Trip to the Moon,Georges Méliès,1902,France,Science Fiction | Trick film,Film,Georges Méliès
+4ce2b6ab6f1c7,4,La grande illusion,Jean Renoir,1937,France,War,Film,Jean Gabin | Dita Parlo | Pierre Fresnay
+4ce2b72b62c27,4,Come And See,Elem Klimov,1985,USSR,War,Film,Alexei Kravchenko | Olga Mironova | Liubomiras Laucevicius
+4ce2b6a91da80,4,Don't Look Now,Nicolas Roeg,1973,United Kingdom | Italy,Horror | Fantasy | Thriller,Film,Julie Christie | Donald Sutherland | Hilary Mason
+4ce2b6b52ac87,4,Scenes from a Marriage,Ingmar Bergman,1995,Sweden,Drama,Film,Liv Ullmann | Erland Josephson | Bibi Andersson
+4ce2b6a78a11b,4,All About Eve,Joseph L. Mankiewicz,1950,USA,,Film,Bette Davis | Anne Baxter | George Sanders
+4ce2b6af6aedd,4,M,Fritz Lang,1931,Germany,Crime | Thriller,Film,Peter Lorre | Ellen Widmann | Inge Landgut
+4ce2b6b9efb3b,4,Viridiana,Luis Buñuel,1961,Spain | Mexico,Drama,Film,Silvia Pinal | Francisco Rabal | Fernando Rey
+4ce2b6b8bc241,4,Touch of Evil,Orson Welles,1958,USA,Film noir,Film,Charlton Heston | Janet Leigh | Orson Welles
+4ce2b83f86eb2,4,Spirited Away,Miyazaki Hayao,2001,Japan,Animation,Film,Rumi Hiiragi | Miyu Irino | Mari Natsuki
+4ce2b6bc285f7,4,Barry Lyndon,Stanley Kubrick,1975,United Kingdom | USA,Period drama,Film,Michael Hordern | Ryan O'Neal | Marisa Berenson
+4ce2b6fe03642,4,Celine and Julie Go Boating,Jacques Rivette,1974,France,Drama,Film,Juliet Berto | Dominique Labourier | Bulle Ogier
+4ce2b73343e80,4,The Cabinet of Dr Caligari,Robert Wiene,1919,Germany,Horror,Film,Werner Krauß | Conrad Veidt | Lil Dagover
+4ce2b6b2a3772,4,Partie de campagne,Jean Renoir,1936,France,Period drama,Film,Sylvia Bataille | Georges Darnoux | Jane Marken
+4ce2b6b39fc24,4,Psycho,Alfred Hitchcock,1960,USA,Horror | Thriller,Film,Anthony Perkins | Vera Miles | John Gavin
+4ce2b6bbbae8c,4,The Great Dictator,Charles Chaplin,1940,USA,Comedy,Film,Charles Chaplin | Jack Oakie | Reginald Gardiner
+4ce2b6ba057c9,4,Vivre Sa Vie,Jean-Luc Godard,1962,France,Drama,Film,Anna Karina | Sady Rebbot | André S. Labarthe
+4ce2b752105a2,4,Ordet,Carl Theodor Dreyer,1955,Denmark,Drama,Film,Henrik Malberg | Emil Hass Christensen | Preben Lerdorff Rye
+4ce2b6bbb8e51,4,City Lights,Charles Chaplin,1931,USA,Comedy,Film,Virginia Cherrill | Florence Lee | Harry Myers
+4ce2b6a7b2be8,4,Cleo from 5 to 7,Agnès Varda,1962,France | Italy,Drama,Film,Corinne Marchand | Antoine Bourseiller | Dominique Davray
+4ce2b82020179,4,Casablanca,Michael Curtiz,1942,USA,Romance | War | Drama,Film,Lou Marcelle | Humphrey Bogart | Ingrid Bergman
+4ce2b6bf2249d,4,Raging Bull,Martin Scorsese,1980,USA,Biopic | Sport,Film,Robert De Niro | Joe Pesci | Cathy Moriarty
+4ce2b6fe560c7,4,The Sorrow and the Pity,Marcel Ophüls,1969,Switzerland | Federal Republic of Germany,Documentary,Film,Marcel Ophüls | André Harris | Georges Bidault
+4ce2b6a673516,4,Bringing Up Baby,Howard Hawks,1938,USA,Comedy | Romance,Film,Katharine Hepburn | Cary Grant | Charles Ruggles
+4ce2b7b78a3f5,4,A Brighter Summer Day,Edward Yang,1991,Taiwan,Romance | Drama,Film,Zhang Zhen | Lisa Yang | Zhang Guozhu
+4ce2b6a8b1185,4,Red Desert,Michelangelo Antonioni,1964,France | Italy,Drama,Film,Monica Vitti | Richard Harris | Carlo Chionetti
+4ce2b8a69d6fb,4,Tropical Malady,Apichatpong Weerasethakul,2004,Switzerland | France | Germany | Italy | Thailand,Drama,Film,Banlop Lomnoi | Sakda Kaewbuadee | Sirivech Jareonchon
+4ce2b6a754af6,4,Once Upon a Time in the West,Sergio Leone,1968,Italy | USA,Western,Film,Claudia Cardinale | Henry Fonda | Jason Robards
+4ce2b7faa60e1,4,The Taste of Cherry,Abbas Kiarostami,1997,Iran,Drama,Film,Homayoun Ershadi | Abdol Hossain Bagheri | Afshin Khorshid Bakhtari
+4ce2b7a726697,4,An Angel at My Table,Jane Campion,1992,Australia | United Kingdom | New Zealand,Biopic,Television,Kerry Fox | Alexia Keogh | Karen Fergusson
+4ce2b81b9d18e,4,All About My Mother,Pedro Almodóvar,1999,Spain | France,Drama,Film,Cecilia Roth | Marisa Paredes | Candela Peña
+4ce2b803e5b2f,4,Happy Together,Wong Kar Wai,1997,Hong Kong,Drama,Film,Leslie Cheung Kwok-wing | Tony Leung Chiu-wai | Chang Chen
+4ce2b768df342,4,Daisies,Vera Chytilová,1966,Czechoslovakia,Comedy | Drama,Film,Jitka Cerhová | Ivana Karbanová | Julius Albert
+4ce2b71208b72,4,Les enfants du paradis,Marcel Carné,1945,France,Romance | Drama,Film,Arletty | Jean-Louis Barrault | Pierre Brasseur
+10006,4,Histoire(s) du cinéma,Jean-Luc Godard,,,,,
+4ce2b6ace5f91,4,""I Know Where I'm Going!"",Michael Powell/Emeric Pressburger,1945,United Kingdom,Romance | Drama,Film,Wendy Hiller | Roger Livesey | Pamela Brown
+4ce2b6a78d5ab,4,Chinatown,Roman Polanski,1974,USA,Film noir,Film,Jack Nicholson | Faye Dunaway | John Hillerman
+4ce2b6a906793,4,Dr. Strangelove,Stanley Kubrick,1963,United Kingdom | USA,Comedy | Science Fiction,Film,Peter Sellers | George C. Scott | Sterling Hayden
+4ce2b6a7e0681,4,The Conformist,Bernardo Bertolucci,1970,France | Italy | Federal Republic of Germany,Drama,Film,Jean-Louis Trintignant | Stefania Sandrelli | Gastone Moschin
+4ce2b6b185765,4,The Night of the Hunter,Charles Laughton,1955,USA,Thriller | Drama,Film,Robert Mitchum | Shelley Winters | Lillian Gish
+4ce2b6a9624ac,4,L'eclisse,Michelangelo Antonioni,1962,France | Italy,Drama,Film,Alain Delon | Monica Vitti | Francisco Rabal
+4ce2b6f9d7213,4,Pandora's Box,G W Pabst,1928,Germany,Drama,Film,Louise Brooks | Fritz Kortner | Francis Lederer
+4ce2b6b81dc84,3,The Travelling Players,Theodoros Angelopoulos,1975,Greece,Drama,Film,Eva Kotamanidou | Aliki Georgoulis | Stratos Pachis
+4ce2b6b4a78c6,3,Rosemary's Baby,Roman Polanski,1968,USA,Horror | Fantasy | Thriller,Film,Mia Farrow | John Cassavetes | Ruth Gordon
+4ce2b8b5eb906,3,13 Lakes,James Benning,2005,USA,,Film,
+4ce2b85cbe285,3,La Ciénaga,Lucrecia Martel,2001,Argentina | Brazil | Switzerland | Spain | France | Japan | USA,Drama,Film,Mercedes Morán | Graciela Borges | Martín Adjemián
+4ce2b7dda7007,3,Chungking Express,Wong Kar Wai,1994,Hong Kong,Drama,Film,Brigitte Lin Ching-hsia | Takeshi Kaneshiro | Tony Leung Chiu-wai
+4ce2b6b9f3ba7,3,Cries and Whispers,Ingmar Bergman,1972,Sweden,Drama,Film,Harriet Andersson | Kari Sylwan | Ingrid Thulin
+4ce2b76ccb454,3,A Tale of Tales,Yuri Norstein,1979,USSR,Animation,Film,
+4ce2b6bb3c86d,3,Written on the Wind,Douglas Sirk,1956,USA,Melodrama,Film,Rock Hudson | Lauren Bacall | Robert Stack
+4ce2b6ace592f,3,Ikiru,Akira Kurosawa,1952,Japan,Drama,Film,Takashi Shimura | Nobuo Kaneko | Kyoko Seki
+4ce2b6b295aa3,3,The Umbrellas of Cherbourg,Jacques Demy,1964,France | Federal Republic of Germany,Musical,Film,Catherine Deneuve | Nino Castelnuovo | Anne Vernon
+4ce2b8c7131d7,3,The Headless Woman,Lucrecia Martel,2008,Argentina | Spain | France | Italy,Drama,Film,María Onetto | Claudia Cantero | Inés Efrón
+4ce2b6b392e27,3,The Passenger,Michelangelo Antonioni,1974,Spain | France | Italy | USA,Drama,Film,Jack Nicholson | Maria Schneider | Jenny Runacre
+4ce2b6ac979d2,3,The Hour of the Furnaces,Octavio Getino/Fernando E. Solanas,1968,Argentina,Documentary,Film,
+4ce2b6adb948c,3,Jules et Jim,François Truffaut,1962,France,Drama,Film,Michel Subor | Jeanne Moreau | Oskar Werner
+4ce2b6b6b7aca,3,La strada,Federico Fellini,1954,Italy,Drama,Film,Anthony Quinn | Giulietta Masina | Richard Basehart
+4ce2b799d35c1,3,The Thin Blue Line,Errol Morris,1989,United Kingdom | USA,Documentary,Television,Randall Adams | David Harris | Gus Rose
+4ce2b8137c327,3,Festen,Thomas Vinterberg,1998,Denmark,Drama,Film,Ulrich Thomsen | Henning Moritzen | Thomas Bo Larsen
+4ce2b7dd57dd9,3,Aguaespejo granadino,José Val del Omar,1955,Spain,Documentary,Film,Teofilo Martinez | Pepe Albaicin | Juan Gomez Leal
+4ce2b6a54c395,3,"Aguirre, Wrath of God",Werner Herzog,1972,Federal Republic of Germany,Historical drama,Film,Klaus Kinski | Cecilia Rivera | Ruy Guerra
+4ce2b6b143f57,3,Nashville,Robert Altman,1975,USA,Musical | Drama,Film,David Arkin | Barbara Baxley | Ned Beatty
+4ce2b6afe44fd,3,The Man Who Shot Liberty Valance,John Ford,1962,USA,Western,Film,John Wayne | James Stewart | Vera Miles
+4ce2b79ed25d8,3,A City of Sadness,Hsiao-hsien Hou,1989,Taiwan,Drama,Film,Li T'ien-lü | Ch'en Sung-yung | Gao Chieh
+4ce2b6af779a6,3,Madame de…,Max Ophüls,1953,France | Italy,Drama,Film,Charles Boyer | Danielle Darrieux | Vittorio De Sica
+4ce2b6bf4befa,3,The Best Years of Our Lives,William Wyler,1946,USA,War,Film,Myrna Loy | Fredric March | Dana Andrews
+4ce2b6ad0c120,3,In a Lonely Place,Nicholas Ray,1950,USA,Film noir | Crime,Film,Humphrey Bogart | Gloria Grahame | Frank Lovejoy
+4ce2b6c010eb7,3,The Apartment,Billy Wilder,1960,USA,Comedy,Film,Jack Lemmon | Shirley MacLaine | Fred MacMurray
+4ce2b6b995895,3,The Exterminating Angel,Luis Buñuel,1962,Mexico,Drama,Film,Silvia Pinal | Jacqueline Andere | José Baviera
+4ce2b73f2ec00,3,La Maman et la putain,Jean Eustache,1973,France,Drama,Film,Françoise Lebrun | Bernadette Lafont | Jean-Pierre Léaud
+4ce2b835b92be,3,The Wind Will Carry Us,Abbas Kiarostami,1999,France | Iran,Drama,Film,Behzad Dourani | Farzad Sohrabi | Shahpour Ghobadi
+4ce2b7a5f2b8b,3,Orlando,Sally Potter,1992,France | United Kingdom | Italy | Netherlands | Russian Federation,Romance | Fantasy,Film,Tilda Swinton | Billy Zane | Lothaire Bluteau
+4ce2b6b0d7f12,3,Mouchette,Robert Bresson,1966,France,Drama,Film,Nadine Nortier | Jean-Claude Guilbert | Paul Hébert
+4ce2b8bf0cf11,3,Inland Empire,David Lynch,2006,France | Poland | USA,,Film,Laura Dern | Jeremy Irons | Justin Theroux
+4ce2b6f695fc4,3,Blow Up,Michelangelo Antonioni,1966,United Kingdom | Italy | USA,Drama,Film,Vanessa Redgrave | Sarah Miles | David Hemmings
+4ce2b6e31bcf4,3,The Life and Death of Colonel Blimp,Michael Powell/Emeric Pressburger,1943,United Kingdom,War,Film,Anton Walbrook | Deborah Kerr | Roger Livesey
+4ce2b70b25114,3,Two or Three Things I Know About Her…,Jean-Luc Godard,1967,France,Drama,Film,Jean-Luc Godard | Marina Vlady | Roger Montsoret
+4ce2b6a796154,3,Chronicle of Anna Magdalena Bach,Jean-Marie Straub/Danièle Huillet,1968,Italy | Federal Republic of Germany,Biopic,Film,Concentus Musicus | Schola Cantorum Basiliensis | Hanover Boys' Choir
+4ce2b6adf17e2,3,Kes,Ken Loach,1969,United Kingdom,Drama,Film,Dai Bradley | Freddie Fletcher | Lynne Perrie
+4ce2b78d95bbe,3,Spring in a Small Town,Fei Mu,1948,People's Republic of China,Romance,Film,Wei Wei | Yu Shi | Li Wei
+4ce2b6ad1273e,3,India Song,Marguerite Duras,1975,France,Drama,Film,Delphine Seyrig | Michel Lonsdale | Mathieu Carrière
+4ce2b75db6ba9,3,Pyaasa,Guru Dutt,1957,India,Drama,Film,Mala Sinha | Guru Dutt | Waheeda Rehman
+4ce2b6b5b13f5,3,Sherlock Jr,Buster Keaton,1924,USA,Comedy,Film,Buster Keaton | Kathryn Mcguire | Joe Keaton
+4ce2b880223d5,3,Waiting for Happiness,Abderrahmane Sissako,2002,Switzerland | Czech Republic | France | Netherlands,Drama,Film,Khatra Ould Abdel Kader | Maata Ould Mohamed Abeid | Mohamed Mahmoud Ould Mohamed
+4ce2b6b957263,3,Umberto D,Vittorio de Sica,1952,Italy,Drama,Film,Carlo Battisti | Maria Pia Casilio | Lina Gennari
+4ce2b6a6d26d5,3,Cabaret,Bob Fosse,1972,USA,Musical | Period drama,Film,Liza Minnelli | Michael York | Helmut Griem
+4ce2b6bb8e7a6,3,Earth,Aleksandr Dovzhenko,1930,USSR,,Film,Mikola Nademsky | Stepan Shkurat | Semyon Svashenko
+4ce2b6bf360f4,3,The Shining,Stanley Kubrick,1980,United Kingdom | USA,Horror,Film,Jack Nicholson | Shelley Duvall | Danny Lloyd
+4ce2b6a9c2177,3,Faces,John Cassavetes,1968,USA,Drama,Film,John Marley | Gena Rowlands | Lynn Carlin
+4ce2b7dda5e6d,3,Through the Olive Trees,Abbas Kiarostami,1994,Iran,Drama,Film,Mohammad-Ali Keshavarz | Farhad Kheradmand | Zarifeh Shiva
+4ce2b6bbe2a40,3,Alien,Ridley Scott,1979,United Kingdom | USA,Horror | Science Fiction,Film,Tom Skerritt | Sigourney Weaver | Veronica Cartwright
+4ce2b81295544,3,The Matrix,Andy Wachowski/Lana Wachowski,1999,Australia | USA,Science Fiction,Film,Keanu Reeves | Laurence Fishburne | Carrie-Anne Moss
+4ce2b8b181b6e,3,The Death of Mr Lazarescu,Cristi Puiu,2005,Romania,Comedy | Drama,Film,Ion Fiscuteanu | Luminita Gheorghiu | Doru Ana
+4ce2b6aec1d37,3,Letter From an Unknown Woman,Max Ophüls,1948,USA,Melodrama | Romance,Film,Joan Fontaine | Louis Jourdan | Mady Christians
+4ce2b6b9946ea,3,By the Bluest of Seas,Boris Barnet/S. Mardanin,1935,USSR,Comedy,Film,Elena Kuzmina | L. Sverdlin | Nikolai Kriuchkov
+4ce2b6a7ea9b8,3,The Conversation,Francis Ford Coppola,1974,USA,Thriller | Drama,Film,Gene Hackman | John Cazale | Allen Garfield
+4ce2b6b1a3be1,3,Black Girl,Ousmane Sembene,1965,France | Senegal,Drama,Film,Toto Bissainthe | Thérèse N'bissine Diop | Anne-Marie Jelinek
+4ce2b6bb09360,3,The Wizard of Oz,Victor Fleming,1939,USA,Musical | Fantasy,Film,Judy Garland | Frank Morgan | Ray Bolger
+4ce2b6ba31970,3,Wanda,Barbara Loden,1970,USA,Crime,Film,Barbara Loden | Michael Higgins | Dorothy Shupenes
+4ce2b6bcd514a,3,Days of Heaven,Terrence Malick,1978,USA,Drama,Film,Richard Gere | Brooke Adams | Sam Shepard
+4ce2b794e6dfb,3,Do The Right Thing,Spike Lee,1989,USA,Comedy | Drama,Film,Danny Aiello | Ossie Davis | Ruby Dee
+4ce2b6b1ca76f,3,Night and Fog,Alain Resnais,1955,France,Documentary | War,Film,Michel Bouquet
+4ce2b6e31e32e,3,Once Upon a Time in America,Sergio Leone,1983,Italy | USA,Gangster | Crime,Film,Robert De Niro | James Woods | Elizabeth McGovern
+4ce2b6b24f2c6,3,Orphée,Jean Cocteau,1950,France,Drama,Film,Ronald-François Lack | Jean Marais | François Périer
+4ce2b740d3924,3,Marketa Lazarová,Frantisek Vlácil,1967,Czechoslovakia,Period drama,Film,Josef Kemr | Nada Hejná | Jaroslav Moucka
+4ce2b8485cde0,2,The Gleaners & I,Agnès Varda,2000,France,Documentary,Film,
+4ce2b8301abe5,2,"Crouching Tiger, Hidden Dragon",Ang Lee,2000,People's Republic of China | Hong Kong | Taiwan | USA,Martial arts,Film,Chow Yun-fat | Michelle Yeoh | Zhang Ziyi
+4ce2b6ad82ff5,2,Jaws,Steven Spielberg,1975,USA,Horror,Film,Roy Scheider | Robert Shaw | Richard Dreyfuss
+4ce2b6e322e76,2,This Is Spinal Tap,Rob Reiner,1983,USA,Parody,Film,Christopher Guest | Michael McKean | Harry Shearer
+4ce2b6a90859f,2,Dodeskaden,Akira Kurosawa,1970,Japan,Drama,Film,Yoshitaka Zushi | Kin Sugai | Kazou Kato
+4ce2b6a5551ac,2,Black Narcissus,Michael Powell/Emeric Pressburger,1947,United Kingdom,Drama,Film,London Symphony Orchestra | Deborah Kerr | Sabu
+4ce2b7ed49278,2,Lost Highway,David Lynch,1996,France | USA,Drama,Film,Bill Pullman | Patricia Arquette | Balthazar Getty
+4ce2b6b1c031b,2,La notte,Michelangelo Antonioni,1961,France | Italy,Drama,Film,Marcello Mastroianni | Jeanne Moreau | Monica Vitti
+4ce2b6b8ab56a,2,Top Hat,Mark Sandrich,1935,USA,Comedy | Musical,Film,Fred Astaire | Ginger Rogers | Edward Everett Horton
+4f4b8bf00dfa0,2,The Tree of Life,Terrence Malick,2010,USA,Fantasy,Film,Brad Pitt | Sean Penn | Jessica Chastain
+4ce2b711a157d,2,Empire,Andy Warhol,1964,USA,Documentary,Film,
+4ce2b6b6ec252,2,Sullivan's Travels,Preston Sturges,1941,USA,Comedy,Film,Joel McCrea | Veronica Lake | Robert Warwick
+4ce2b6ab152c5,2,Gimme Shelter,Albert Maysles/David Maysles/Charlotte Zwerin,1970,USA,Documentary,Film,The Rolling Stones | Mick Jagger | Charlie Watts
+4ce2b6bbda06f,2,In the Realm of the Senses,Nagisa Oshima,1976,France | Japan,Drama,Film,Nagisa Oshima | Eiko Matsuda | Tatsuya Fuji
+4ce2b83279e3f,2,Code Unknown,Michael Haneke,2000,France | Germany | Romania,Drama,Film,Juliette Binoche | Thierry Neuvic | Sepp Bierbichler
+4ce2b6b93e9f8,2,Two-Lane Blacktop,Monte Hellman,1971,USA,Road movie,Film,James Taylor | Warren Oates | Laurie Bird
+4ce2b6a5c118c,2,La Bête Humaine,Jean Renoir,1938,France,Crime,Film,Jean Gabin | Simone Simon | Fernand Ledoux
+4ce2b89f68292,2,Oldboy,Park Chan-wook,2003,"Korea, Republic of",Thriller,Film,Choi Min-sik | Yu Ji-tae | Gang Hye-jung
+4ce2b8331649f,2,Nights of Cabiria,Federico Fellini,1957,France | Italy,Drama,Film,Giulietta Masina | François Périer | Franca Marzi
+4ce2b6ba2864d,2,Walkabout,Nicolas Roeg,1970,Australia,Drama,Film,Jenny Agutter | Luc Roeg | David Gulpilil
+4ce2b6b47f860,2,Rocco and his Brothers,Luchino Visconti,1960,France | Italy,Drama,Film,Alain Delon | Renato Salvatori | Annie Girardot
+4ce2b6ab03131,2,Gertrud,Carl Theodor Dreyer,1964,Denmark,Drama,Film,Nina Pens Rode | Bendt Rothe | Ebbe Rode
+4ce2b7faceb14,2,A Chronicle of a Disappearance,Elia Suleiman,1996,Israel | USA | Occupied Palestinian territories,Documentary,Film,Elia Suleiman | Ula Tabari | Nazira Suleiman
+4ce2b7d7a093e,2,Exotica,Atom Egoyan,1994,Canada,Drama,Film,Bruce Greenwood | Mia Kirshner | Don McKellar
+4ce2b6af56337,2,Lucía,Humberto Solás,1969,Cuba,Drama,Film,Raquel Revuelta | Eduardo Moure | Eslinda Núñez
+4ce2b6b4624f5,2,Rio Grande,John Ford,1950,USA,Western,Film,John Wayne | Maureen O'Hara | Ben Johnson
+4ce2b8e001eca,2,Black Swan,Darren Aronofsky,2010,USA,Thriller,Film,Natalie Portman | Vincent Cassel | Mila Kunis
+4ce2b6f19c7e7,2,The Band Wagon,Vincente Minnelli,1953,USA,Musical,Film,Fred Astaire | Cyd Charisse | Oscar Levant
+4ce2b7916e67e,2,The Last Laugh,F. W. Murnau,1924,Germany,Drama,Film,Emil Jannings | Maly Delschaft | Emilie Kurz
+4ce2b6bb90b37,2,Zero de Conduite,Jean Vigo,1933,France,Artists' Moving Image,Film,Jean Dasté | Robert Le Flon | Du Verron
+4ce2b8c558b63,2,WALL-E,Andrew Stanton,2008,USA,Comedy | Animation,Film,Ben Burtt | Elissa Knight | Jeff Garlin
+4ce2b7c9dae2a,2,Videograms of a Revolution,Harun Farocki/Andrei Ujica,1993,Germany,Documentary,Film,
+4ce2b6ae52fa0,2,Throne of Blood,Akira Kurosawa,1957,Japan,Drama,Film,Toshiro Mifune | Isuzu Yamada | Takashi Shimura
+4ce2b6be8ccf5,2,Mean Streets,Martin Scorsese,1973,USA,Gangster | Crime,Film,Robert De Niro | Harvey Keitel | David Proval
+4ce2b6b70d4ac,2,Splendor in the Grass,Elia Kazan,1961,USA,Drama,Film,Natalie Wood | Warren Beatty | Audrey Christie
+4ce2b8a02e9bd,2,Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,USA,Drama,Film,Jim Carrey | Kate Winslet | Kirsten Dunst
+4ce2b6ad7b33b,2,The Music Room,Satyajit Ray,1958,India,Drama,Film,Chhabi Biswas | Padma Devi | Pinaki Sen Gupta
+4ce2b79314351,2,"Distant Voices, Still Lives",Terence Davies,1988,United Kingdom | Federal Republic of Germany,Biopic | Historical drama,Film,Freda Dowie | Peter Postlethwaite | Angela Walsh
+4ce2b87fe9a8c,2,Blissfully Yours,Apichatpong Weerasethakul,2002,Thailand,Drama,Film,Kanokporn Tongaram | Min Oo | Jenjira Jansuda
+4ce2b6ac5e051,2,His Girl Friday,Howard Hawks,1939,USA,Comedy,Film,Cary Grant | Rosalind Russell | Ralph Bellamy
+4ce2b73453fda,2,Kind Hearts and Coronets,Robert Hamer,1949,United Kingdom,Comedy | Crime,Film,Dennis Price | Valerie Hobson | Joan Greenwood
+4ce2b6bbbab86,2,The Gold Rush,Charles Chaplin,1925,USA,Comedy,Film,Charles Chaplin | Mack Swain | Tom Murray
+4ce2b6b461386,2,Rio Bravo,Howard Hawks,1958,USA,Western,Film,John Wayne | Dean Martin | Rick Nelson
+4ce2b6be331c6,2,The House is Black,Forough Farrokhzad,1962,Iran,Documentary,Film,
+4ce2b6a8be619,2,"Black God, White Devil",Glauber Rocha,1964,Brazil,Drama,Film,Geraldo del Rey | Yona Magalhães | Othon Bastos
+4ce2b8021b76d,2,The Thin Red Line,Terrence Malick,1998,USA,War,Film,Sean Penn | Adrien Brody | James Caviezel
+4ce2b6946d914,2,Fitzcarraldo,Werner Herzog,1981,Peru | Federal Republic of Germany,Drama | Historical drama,Film,Klaus Kinski | José Lewgoy | Miguel Ángel Fuentes
+4ce2b80eaafad,2,Flowers of Shanghai,Hsiao-hsien Hou,1998,Japan | Taiwan,Drama,Film,Tony Leung Chiu-wai | Michiko Hada | Michèle Reis
+4ce2b79fd264c,2,Crimes and Misdemeanors,Woody Allen,1989,USA,Comedy,Film,Caroline Aaron | Alan Alda | Woody Allen
+4ce2b6af4711f,2,Love Me Tonight,Rouben Mamoulian,1932,USA,Comedy | Musical,Film,Maurice Chevalier | Jeanette Macdonald | Charles Ruggles
+4ce2b6a476a8b,2,The Awful Truth,Leo McCarey,1937,USA,Comedy | Romance,Film,Irene Dunne | Cary Grant | Ralph Bellamy
+4ce2b6ae1daad,2,King Kong,Merian C. Cooper/Ernest B. Schoedsack,1933,USA,Horror | Fantasy,Film,Fay Wray | Robert Armstrong | Bruce Cabot
+4ce2b6bb5649f,2,Eyes Without a Face,Georges Franju,1960,France | Italy,Horror | Medical drama,Film,Pierre Brasseur | Alida Valli | Juliette Mayniel
+4ce2b6b13ea6d,2,Napoleon,Abel Gance,1927,France,Biopic | Historical drama,Film,Gina Manès | Albert Dieudonné | Eugénie Buffet
+4ce2b6edeeb13,2,L'argent,Robert Bresson,1983,Switzerland | France,Crime,Film,Christian Patey | Vincent Risterucci | Caroline Lang
+4ce2b6b94f5ad,2,Floating Clouds,Naruse Mikio,1955,Japan,Drama,Film,Hideko Takamine | Masayuki Mori | Mariko Okada
+4ce2b6af91638,2,A Magnificent Obsession,Douglas Sirk,1954,USA,Melodrama,Film,Jane Wyman | Rock Hudson | Agnes Moorehead
+4ce2b6bcdaa6f,2,The Deer Hunter,Michael Cimino,1977,USA,War,Film,Robert De Niro | John Cazale | John Savage
+4ce2b8153ced0,2,Sicilia!,Jean-Marie Straub/Danièle Huillet,1998,France | Germany | Italy,Drama,Film,Gianni Buscarino | Vittorio Vigneri | Angela Nugara
+4ce2b6b26303c,2,Wake in Fright,Ted Kotcheff,1971,Australia | United Kingdom | USA,Drama,Film,Donald Pleasence | Gary Bond | Chips Rafferty
+4ce2b8c6518bb,2,There Will Be Blood,Paul Thomas Anderson,2007,USA,Drama,Film,Daniel Day-Lewis | Paul Dano | Kevin J. O'Connor
+4ce2b6b218cee,2,One Flew Over the Cuckoo's Nest,Milos Forman,1975,USA,Medical drama,Film,Jack Nicholson | Louise Fletcher | William Redfield
+4ce2b813df499,2,"Timeless, Bottomless, Bad Movie",Jang Sun-Woo,1998,"Korea, Republic of",Drama,Film,Kwok Hyok-sin | Jang Nam-kyoung | Ducky Kim
+4ce2b71608532,2,"Faster, Pussycat! Kill! Kill!",Russ Meyer,1966,USA,Comedy | Crime,Film,Tura Satana | Haji | Stuart Lancaster
+4ce2b6a7b69f6,2,A Clockwork Orange,Stanley Kubrick,1971,United Kingdom | USA,Crime | Science Fiction,Film,Malcolm McDowell | Patrick Magee | Michael Bates
+4ce2b6ad02e91,2,Kings of the Road,Wim Wenders,1976,Federal Republic of Germany,Road movie,Film,Rüdiger Vogler | Hanns Zischler | Lisa Kreuzer
+4ce2b721151ac,2,The Grapes of Wrath,John Ford,1940,USA,Drama,Film,Henry Fonda | Jane Darwell | Charles Grapewin
+4ce2b6a59e27b,2,La Belle et la Bete,Jean Cocteau,1946,France,Fantasy,Film,Jean Marais | Josette Day | Mila Parély
+4ce2b850a848c,2,In Vanda's Room,Pedro Costa,2000,Switzerland | Germany | Portugal,Documentary,Film,Vanda Duarte | Zita Duarte | Lena Duarte
+4ce2b6a9082ab,2,Doctor Zhivago,David Lean,1965,Italy | Liechtenstein | USA,Romance | Drama,Film,Geraldine Chaplin | Julie Christie | Tom Courtenay
+4ce2b6b738e6d,2,Star Wars,George Lucas,1977,USA,Science Fiction | Fantasy | Action and Adventure,Film,Mark Hamill | Harrison Ford | Carrie Fisher
+4ce2b6abe00df,2,Hatari!,Howard Hawks,1961,USA,Comedy | Drama,Film,John Wayne | Hardy Kruger | Elsa Martinelli
+4ce2b87f98ae5,2,Ten,Abbas Kiarostami,2002,France | Iran,Drama,Film,Mania Akbari | Amin Maher | Roya Arabshahi
+4ce2b85bbfe0f,2,Dogville,Lars von Trier,2003,Denmark | France | United Kingdom | Germany | Sweden,Thriller,Film,John Hurt | Nicole Kidman | Harriet Andersson
+4ce2b8c3565bc,2,Silent Light,Carlos Reygadas,2007,France | Mexico | Netherlands,,Film,Cornelio Wall | Miriam Toews | Maria Pankratz
+4ce2b7e2b963d,2,Breaking the Waves,Lars von Trier,1996,Denmark | Finland | France | Germany | Iceland | Italy | Netherlands | Norway | Sweden | USA,Drama,Film,Emily Watson | Stellan Skarsgård | Katrin Cartlidge
+4ce2b6b8ac748,2,El Topo,Alejandro Jodorowsky,1970,Mexico | USA,Western,Film,Alejandro Jodorowsky | Jacqueline Luis | Mara Lorenzio
+4ce2b79e28ef5,2,Where is My Friend's House?,Abbas Kiarostami,1989,Iran,Drama,Film,Babek Ahmed Poor | Ahmed Ahmed Poor | Kheda Barech Defai
+4ce2b818a4b15,2,After Life,Koreeda Hirokazu,1998,Japan,Drama,Film,Arata | Erika Oda | Susumu Terajima
+4ce2b6ac439ff,2,Equinox Flower,"Ozu Yasujirô ",1958,Japan,Comedy | Drama,Film,Shin Saburi | Kinuyo Tanaka | Ineko Arima
+4ce2b6b90d54d,2,Trouble in Paradise,Ernst Lubitsch,1932,USA,Comedy | Crime,Film,Miriam Hopkins | Kay Francis | Herbert Marshall
+4ce2b79d4d9b9,2,The Killer,John Woo,1989,Hong Kong,Crime | Thriller,Film,Chow Yun-fat | Danny Lee Sau-yin | Sally Yeh
+4ce2b78292f14,2,The Gospel According to St Matthew,Pier Paolo Pasolini,1964,France | Italy,Biopic,Film,Enrique Irazoqui | Margherita Caruso | Susanna Pasolini
+4ce2b8bf3c780,2,Hurt Locker,Kathryn Bigelow,2008,USA,War,Film,Jeremy Renner | Anthony Mackie | Brian Geraghty
+4ce2b79ec3b22,2,The Green Ray,Eric Rohmer,1986,France,Romance | Drama,Film,Marie Rivière | Amira Chemakhi | Sylvie Richez
+4ce2b7453b195,2,Les Misérables,Albert Capellani,1912,France,Drama,Film,Henry Krauss | J.P. Etievant | M. Bernard
+4ce2b6ad684f4,2,Ivan the Terrible,Sergei M Eisenstein,1945,USSR,Biopic | Historical drama,Film,Nikolai Cherkasov | Ludmila Tselikovskaya | Serafima Birman
+4ce2b7c595cb0,2,Farewell My Concubine,Chen Kaige,1993,People's Republic of China | Hong Kong,Romance | Drama,Film,Leslie Cheung Kwok-wing | Zhang Fengyi | Gong Li
+4ce2b7827d1aa,2,Going Places,Bertrand Blier,1974,France,Comedy | Crime,Film,Gérard Depardieu | Miou-Miou | Patrick Dewaere
+4ce2b7b4c238b,2,Days of Being Wild,Wong Kar Wai,1990,Hong Kong,Drama,Film,Leslie Cheung Kwok-wing | Maggie Cheung Man-yuk | Andy Lau Tak-wah
+4ce2b7b9b17db,2,Groundhog Day,Harold Ramis,1993,USA,Comedy | Romance | Fantasy,Film,Bill Murray | Andie MacDowell | Chris Elliott
+4ce2b6ab5808b,2,Gone with the Wind,Victor Fleming,1939,USA,Romance | Period drama,Film,Thomas Mitchell | Barbara O'Neil | Vivien Leigh
+4ce2b6b416034,2,Red River,Howard Hawks/Arthur Rosson,1947,USA,Western,Film,John Wayne | Montgomery Clift | Joanne Dru
+4ce2b89a9ee7b,2,"Spring, Summer, Fall, Winter and Spring…",Kim Ki-Duk,2003,"Germany | Korea, Republic of",Drama,Film,Oh Young | Kim Ki-deok | Kim Young-min
+4ce2b8de13c81,2,Uncle Boonmee Who Can Recall His Past Lives,Apichatpong Weerasethakul,2010,Spain | France | United Kingdom | Germany | Netherlands | Thailand,Fantasy,Film,Thanapat Saisaymar | Jenjira Jansuda | Sakda Kaewbuadee
+4ce2b6bd14dae,2,The Dupes,Tawfik Saleh,1972,Egypt | Syria,Drama,Film,
+4ce2b79f4707d,2,The Emperor's Naked Army Marches On,Kazuo Hara,1987,Japan,Documentary,Film,Kenzo Okuzaki | Shizumi Okuzaki | Kichitaro Yamada
+4ce2b7fa53d9d,2,A Moment of Innocence,Mohsen Makhmalbaf,1995,Switzerland | France | Iran,Drama,Film,Mirhadi Taiebi | Ali Bakhshi | Ammar Tafti
+4ce2b6bad3a0d,2,The Wild Bunch,Sam Peckinpah,1969,USA,Western,Film,William Holden | Ernest Borgnine | Robert Ryan
+4ce2b6af14a0d,2,Lola Montès,Max Ophüls,1955,France | Federal Republic of Germany,Biopic | Historical drama,Film,Martine Carol | Peter Ustinov | Anton Walbrook
+4ce2b6ad68d94,2,Ivan's Childhood,Andrei Tarkovsky,1962,USSR,War,Film,Kolya Burlyaev | Irina Tarkovskaya | Valentin Zubkov
+4ce2b69592ecf,2,"Paris, Texas",Wim Wenders,1984,France | United Kingdom | Federal Republic of Germany,Drama,Film,Harry Dean Stanton | Nastassja Kinski | Dean Stockwell
+4ce2b6bb4355b,2,Xala,Ousmane Sembene,1974,Senegal,Comedy,Film,Thierno Leye | Seune Samb | Myriam Niang
+4ce2b7c847246,2,My Neighbour Totoro,Miyazaki Hayao,1988,Japan,Animation,Film,Lisa Michaelson | Cheryl Chase | Gregory Snegoff
+4ce2b7e63fe2b,2,Dilwale Dulhania Le Jayenge,Aditya Chopra,1995,India,Romance | Drama,Film,Shah Rukh Khan | Kajol | Amrish Puri
+4ce2b6b4ead96,2,"Salo, or The 120 Days of Sodom",Pier Paolo Pasolini,1975,France | Italy,Horror | War,Film,Paolo Bonacelli | Giorgio Cataldi | Uberto P. Quintavalle
+4ce2b69e57fec,2,Listen to Britain,Humphrey Jennings/Stewart McAllister,1942,United Kingdom,Documentary | War | Government sponsored film,Film,Leonard Brockington | Myra Hess | Bud Flanagan
+4ce2b6ab6a59f,2,The Graduate,Mike Nichols,1967,USA,Romance,Film,Anne Bancroft | Dustin Hoffman | Katharine Ross
+4ce2b6c01bcfe,2,The World of Apu,Satyajit Ray,1958,India,Drama,Film,Soumitra Chatterjee | Sharmila Tagore | Alok Chakravarti
+4ce2b721f065a,2,Great Ecstasy of Woodcarver Steiner,Werner Herzog,1975,Federal Republic of Germany,Documentary,Film,Werner Herzog | Walter Steiner
+4ce2b6b4da49b,2,The Life of Oharu,Mizoguchi Kenji,1952,Japan,Drama,Film,Kinuyo Tanaka | Tsukie Matsuura | Ichiro Sugai
+4ce2b8d705a83,1,Ramchand Pakistani,Mehreen Jabbar,2008,Pakistan | USA,Drama,Film,Nandita Das | Rashid Farooqi | Syed Hussain
+4ce2b733a8f0f,1,The Karnival Kid,Walt Disney/Ub Iwerks,1929,USA,Animation,Film,Mickey Mouse
+4ce2b69fd6963,1,Snow,Geoffrey Jones,1963,United Kingdom,Artists' Moving Image,Film,
+4ce2b719a7e4a,1,A Grin Without a Cat,Chris Marker,1977,France,Documentary,Film,Davos Hanich | Simone Signoret | Jorge Semprún
+4ce2b8c3c5f92,1,The Banishment,Andrei Zvyagintsev,2007,Russian Federation,Drama,Film,Konstantin Lavronenko | Maria Bonnevie | Aleksandr Baluev
+4ce2b89b8e9ee,1,The Return,Andrei Zvyagintsev,2003,Russian Federation,Drama,Film,Vladimir Garin | Ivan Dobronravov | Konstantin Lavronenko
+4ce2b6aa4049b,1,Flaming Creatures,Jack Smith,1963,USA,Artists' Moving Image,Film,Francis Francine | Sheila Bick | Joel Markman
+4ce2b6b2a729e,1,Party Girl,Nicholas Ray,1958,USA,Melodrama,Film,Robert Taylor | Cyd Charisse | Lee J. Cobb
+4ce2b797b196a,1,Stars in Broad Daylight,Oussama Mohammed,1988,Syria,Drama,Film,Abdellatif Abdelhamid | Zouheir Ramadan | Zouher Abdel-karim
+4ce2b8a2b0940,1,Head-On,Fatih Akin,2003,Germany,Drama,Film,Birol Ünel | Sibel Kekilli | Catrin Striebeck
+4ce2b6ad3511b,1,Intimate Lighting,Ivan Passer,1965,Czechoslovakia,Drama,Film,Karel Uhlík | Karel Blazek | Zdenek Bezusek
+4ce2b6947e49e,1,Vengeance is Mine,Imamura Shohei,1979,Japan,Thriller,Film,Ken Ogata | Rentarô Mikuni | Chocho Miyako
+4ce2b6d992c56,1,Dresden Dynamo,Lis Rhodes,1971,United Kingdom,Artists' Moving Image,Film,
+4de8ba148a50b,1,Mysteries of Lisbon,Raúl Ruiz,2010,France | Portugal,Drama,Film,Adriano Luz | Maria Joâo Bastos | Ricardo Pereira
+4ce2b6aa89774,1,The Four Horsemen of the Apocalypse,Rex Ingram,1920,USA,War,Film,Rudolph Valentino | Alice Terry | Pomeroy Cannon
+4ce2b6ef9dde7,1,Au clair de la lune,André Forcier,1983,Canada,Drama,Film,Guy L'ecuyer | Michel Côté | Lucie Miville
+4ce2b887d546c,1,A Loss Is To Be Expected,Ulrich Seidl,1992,Austria,,Film,
+4ce2b6b48f35d,1,Roma,Federico Fellini,1972,France | Italy,Documentary,Film,Peter Gonzales | Fiona Florence | Britta Barnes
+4ce2b739e9745,1,Little Stabs at Happiness,Ken Jacobs,1963,USA,Anthology,Film,Jack Smith
+4ce2b8a8cb162,1,Brokeback Mountain,Ang Lee,2005,Canada | USA,Western | Romance,Film,Heath Ledger | Jake Gyllenhaal | Linda Cardellini
+4ce2b6bbec027,1,Amar Akbar Anthony,Manmohan Desai,1977,India,Comedy | Action and Adventure | Drama,Film,Vinod Khanna | Rishi Kapoor | Amitabh Bachchan
+4ce2b7338af44,1,Kaos,Paolo and Vittorio Taviani,1984,France | Italy,Comedy | Drama,Film,Margarita Lozano | Fiorella Mari | Maria Teresa Di Fede
+4ce2b8c37c8c9,1,Tout est Pardonné,Mia Hansen-Løve,2007,France,,Film,Paul Blain | Marie-Christine Friedrich | Victoire Rousseau
+4ce2b8bc5e3ad,1,Colossal Youth,Pedro Costa,2006,Switzerland | France | Portugal,,Film,Ventura | Vanda Duarte | Beatriz Duarte
+4ce2b8b9bf0a9,1,Daratt,Mahamat-Saleh Haroun,2006,Austria | Belgium | France | United Kingdom | Chad,Drama,Film,Ali Bacha Barkaï | Youssouf Djaoro | Aziza Hisseine
+10010,1,Blight,John Smith,,,,,
+4ce2b8ced1763,1,Melancolia,Lav Díaz,2008,Philippines,Drama,Film,Angeli Bayani | Perry Dizon | Roeder Camanag
+4ce2b6ba017c2,1,I Vitelloni,Federico Fellini,1953,France | Italy,Drama,Film,Franco Interlenghi | Alberto Sordi | Franco Fabrizi
+4ce2b6af99c3a,1,The Mad Masters,Jean Rouch,1955,France,,Film,Jean Rouch
+4ce2b7db816ac,1,Viva l'Amour,Tsai Ming Liang,1994,Taiwan,Drama,Film,Yang Kuei-mei | Chen Chao-jung | Lee Kang-sheng
+4ce2b6b00fb6f,1,La Marseillaise,Jean Renoir,1937,France,Historical drama,Film,Pierre Renoir | Lise Delamare | Léon Larive
+4ce2b6a6cee75,1,Alice in the Cities,Wim Wenders,1974,Federal Republic of Germany,Road movie,Film,Rüdiger Vogler | Yella Rottländer | Lisa Kreuzer
+10051,1,La Maison des bois,Maurice Pialat,,,,,
+4ce2b6e140ffe,1,Yol,Serif Gören/Yilmaz Güney,1982,Switzerland | France | Turkey,Drama,Film,Tarik Akan | Halil Ergün | Necmettin Çobanoglu
+4ce2b7c6952d7,1,The Shawshank Redemption,Frank Darabont,1994,USA,,Film,Tim Robbins | Morgan Freeman | Bob Gunton
+4ce2b760327ce,1,Reds,Warren Beatty,1981,United Kingdom | USA,Biopic | Historical drama,Film,Warren Beatty | Diane Keaton | Edward Herrmann
+4ce2b73552555,1,The Mad Fox,Tomu Uchida,1962,Japan,Fantasy,Film,Hashizo Okawa | Michiko Saga | Yunya Usami
+4ce2b7aa2f0fb,1,Baraka,Ron Fricke,1992,USA,Documentary,Film,
+4ce2b6bdafb40,1,Grey Gardens,Maysles Brothers,1975,USA,Documentary,Film,Edith Bouvier Beale | Jerry Torre | Lois Wright
+4ce2b7e102253,1,The Usual Suspects,Bryan Singer,1995,Germany | USA,Gangster | Crime,Film,Stephen Baldwin | Gabriel Byrne | Chazz Palminteri
+4ce2b7a82fcb5,1,Point Break,Kathryn Bigelow,1991,USA,Police drama,Film,Patrick Swayze | Keanu Reeves | Gary Busey
+4ce2b869d18f9,1,The Devil's Backbone,Guillermo del Toro,2001,Spain | Mexico,Horror | War,Film,Marisa Paredes | Eduardo Noriega | Federico Luppi
+4ce2b6e8278cb,1,The Act of Seeing with One's Own Eyes,Stan Brakhage,1971,USA,Documentary,Film,
+4ce2b6a909d23,1,Dog Day Afternoon,Sidney Lumet,1975,USA,Police drama | Crime,Film,Al Pacino | Penelope Allen | Sully Boyar
+4ce2b6acb6fe3,1,How Green Was My Valley,John Ford,1941,USA,Drama,Film,Irving Pichel | Walter Pidgeon | Maureen O'Hara
+4ce2b6b7332ae,1,A Star is Born,George Cukor,1954,USA,Musical,Film,Judy Garland | James Mason | Jack Carson
+4ce2b6b18a694,1,A Night to Remember,Roy Ward Baker,1958,United Kingdom,Disaster | Historical drama,Film,Kenneth More | Ronald Allen | Robert Ayres
+4ce2b6bd29db3,1,Eraserhead,David Lynch,1976,USA,Fantasy | Artists' Moving Image,Film,Jack Nance | Charlotte Stewart | Allen Joseph
+4ce2b8a2a9046,1,Before Sunset,Richard Linklater,2004,USA,Romance | Drama,Film,Ethan Hawke | Julie Delpy | Vernon Dobtcheff
+4ce2b69a65ad2,1,Awaara,Raj Kapoor,1951,India,Drama,Film,Prithviraj Kapoor | Nargis | Raj Kapoor
+10139,1,Louisa,Valentin Vaala,,,,,
+10025,1,Rapsodia satanica,Nino Oxilia,,,,,
+4ce2b6bc053b7,1,Annie Hall,Woody Allen,1977,USA,Comedy,Film,Woody Allen | Diane Keaton | Tony Roberts
+4ce2b6ee3f46d,1,Arrebato,Iván Zulueta,1979,Spain,Drama,Film,Eusebio Poncela | Cecilia Roth | Will More
+10088,1,Atanarjuat The Fast Runner,Zacharius Kunuk,,,,,
+4ce2b7a849007,1,La Belle Noiseuse,Jacques Rivette,1991,Switzerland | France,Drama,Film,Jane Birkin | Emmanuelle Béart | Marianne Denicourt
+4ce2b6a9f365e,1,Satyricon,Federico Fellini,1969,France | Italy,Fantasy | Period drama,Film,Martin Potter | Hiram Keller | Max Born
+4ce2b6a59d655,1,Belle de Jour,Luis Buñuel,1967,France | Italy,Drama,Film,Catherine Deneuve | Jean Sorel | Michel Piccoli
+4ce2b714e9247,1,F for Fake,Orson Welles,1975,France | Iran | Federal Republic of Germany,Documentary,Film,Orson Welles | Oja Kodar | Joseph Cotten
+4ce2b8aa72854,1,Le pont des arts,Eugène Green,2004,France,Drama,Film,Natacha Régnier | Adrien Michaux | Denis Podalydès
+10030,1,Belovy,Victor Kossakovsky,,,,,
+10083,1,"Les Acrobatic Sisters Dainef, The/six soeurs Dainef",Anonimous,,,,,
+4ce2b6ada35e2,1,Johnny Guitar,Nicholas Ray,1954,USA,Western,Film,Joan Crawford | Sterling Hayden | Mercedes McCambridge
+4ce2b80247698,1,The Duo,Mani Ratnam,1997,India,Drama,Film,Mohanlal | Prakash Rai | Aishwarya Rai
+4ce2b794734f2,1,Cyrano de Bergerac,Jean-Paul Rappeaneau,1990,France,Romance | Drama,Film,Gérard Depardieu | Jacques Weber | Anne Brochet
+4ce2b7764d9df,1,Viva Didou!,Mohamed Zinet,1971,Algeria,Documentary,Film,Himoud Brahimi | N. Drais | Suzie Naceur
+4ce2b815a242c,1,Romance,Catherine Breillat,1999,France,Drama,Film,Caroline Ducey | Sagamore Stévenin | François Berléand
+4ce2b6956104b,1,Suspiria,Dario Argento,1977,Italy,Horror,Film,Jessica Harper | Stefania Casini | Flavio Bucci
+4ce2b7dc0c7cb,1,The Bridges of Madison County,Clint Eastwood,1995,USA,Romance,Film,Clint Eastwood | Meryl Streep | Annie Corley
+4ce2b7cdde4e6,1,All of my Life,Bruce Baillie,1966,USA,Documentary,Film,
+4ce2b766ef5ce,1,"Scénario du film' Passion' ",Jean-Luc Godard,1983,Switzerland | France,Documentary,Television,
+4ce2b693b2c90,1,"Welcome, or No Trespassing",Elem Klimov,1964,USSR,,Film,Vitya Kosykh | Evgeny Evstignyev | Lydia Smirnova
+4ce2b7ee0f12e,1,Gabbeh,Mohsen Makhmalbaf,1996,France | Iran,Fantasy,Film,S. Abbas Siahi | Shaghayegh Djodat | Hossein Moharami
+50c306d7d32dc,1,Once Upon a Time in Anatolia,Nuri Bilge Ceylan,2011,Bosnia and Herzegovina | Turkey,Crime,Film,Muhammet Uzuner | Yilmaz Erdogan | Taner Birsel
+4ce2b8ae7e376,1,Grizzly Man,Werner Herzog,2005,USA,Documentary,Film,Werner Herzog | Timothy Treadwell | Amie Huguenard
+4ce2b6db4e683,1,Fuses,Carolee Schneemann,1966,USA,Artists' Moving Image,Film,
+4ce2b7f5e8e61,1,Andaaz,Mehboob Khan,1949,India,Melodrama,Film,Dilip Kumar | Nargis | Raj Kapoor
+4ce2b6b26aca5,1,Out of the Past,Jacques Tourneur,1947,USA,Film noir,Film,Robert Mitchum | Jane Greer | Kirk Douglas
+4ce2b6a5660d4,1,The Blue Angel,Josef von Sternberg,1930,Germany,Drama,Film,Emil Jannings | Marlene Dietrich | Kurt Gerron
+4ce2b7e259489,1,Lone Star,John Sayles,1995,USA,Western,Film,Chris Cooper | Elizabeth Peña | Joe Morton
+4ce2b6a470348,1,Badlands,Terrence Malick,1973,USA,Crime,Film,Martin Sheen | Sissy Spacek | Warren Oates
+10045,1,Paris is Burning,Jennie Livingston,,,,,
+4ce2b7bfc9d9a,1,Hard Boiled,John Woo,1992,Hong Kong,Police drama | Thriller,Film,Chow Yun-fat | Tony Leung Chiu-wai | Teresa Mo Sun-Kwan
+4ce2b6bfecaeb,1,Last Year At Marienbad,Alain Resnais,1961,France | Italy,Romance | Drama,Film,Giorgio Albertazzi | Delphine Seyrig | Sacha Pitoëff
+4ce2b72b4283a,1,I Only Want You To Love Me,Rainer Werner Fassbinder,1976,Federal Republic of Germany,Drama,Television,Vitus Zeplichal | Elke Aberle | Alexander Allerson
+4ce2b89c8eb89,1,"Goodbye, Dragon Inn",Tsai Ming Liang,2003,Taiwan,Comedy | Drama,Film,Lee Kang-sheng | Chen Shiang-chyi | Kiyonobu Mitamura
+4ce2b737eb50b,1,Laura,Otto Preminger,1944,USA,Police drama | Thriller,Film,Gene Tierney | Dana Andrews | Clifton Webb
+4ce2b84002117,1,Water,Deepa Mehta,2005,Canada | USA,Drama,Film,Seema Biswas | Lisa Ray | John Abraham
+4ce2b72fd693f,1,It's a Wonderful Life,Frank Capra,1947,USA,Comedy | Fantasy | Drama,Film,James Stewart | Donna Reed | Lionel Barrymore
+4ce2b6a81dd72,1,The Crime of Monsieur Lange,Jean Renoir,1935,France,Crime,Film,René Lefèvre | Jules Berry | Odette Florelle
+4ce2b797b6e41,1,Cinema Paradiso,Giuseppe Tornatore,1988,France | Italy,Drama,Film,Philippe Noiret | Jacques Perrin | Antonella Attili
+4ce2b6b6d8bc6,1,Stromboli,Roberto Rossellini,1950,Italy | USA,Drama,Film,Ingrid Bergman | Mario Vitale | Renzo Cesana
+4ce2b6a9c90ee,1,Falbalas/Paris Frills,Jacques Becker,1945,France,Drama,Film,Micheline Presle | Raymond Rouleau | Gabrielle Dorziat
+4ce2b8cb27d19,1,Historias Extraordinarias,Mariano Llinás,2008,Argentina,,Film,Daniel Hendler | Juan Minujín | Veronica Llinas
+4ce2b8e039a96,1,Road to Nowhere,Monte Hellman,2010,USA,Thriller,Film,Shannyn Sossamon | Tygh Runyan | Dominique Swain
+4ce2b6b8bb97a,1,Touchez pas au grisbi,Jacques Becker,1954,France | Italy,Crime,Film,Jean Gabin | René Dary | Paul Frankeur
+4ce2b7bd6bdbc,1,The Oak,Lucian Pintilie,1992,France | Romania,Drama,Film,Maïa Morgenstern | Razvan Vasilescu | Victor Rebengiuc
+4ce2b6b1ed5b4,1,October,Sergei M Eisenstein,1928,USSR,Drama,Film,Vasili Nikolaievich Nikandrov | Nikolai Popov | Boris Livanov
+4ce2b88d3c5a0,1,The Ground,Robert Beavers,2002,Switzerland | Greece | USA,Documentary,Film,
+4ce2b81fe24cb,1,Magnolia,Paul Thomas Anderson,1999,USA,Drama,Film,Jeremy Blackman | Tom Cruise | Melinda Dillon
+4ce2b6a635f83,1,Boudu Saved from Drowning,Jean Renoir,1932,France,Drama,Film,Michel Simon | Marcelle Hainia | Sévérine Lerczinska
+4ce2b6b8dea53,1,Swept Away,Lina Wertmuller,1975,Italy,Drama,Film,Giancarlo Giannini | Mariangela Melato | Riccardo Salvino
+4ce2b7359f202,1,Branded to Kill,Suzuki Seijun,1967,Japan,Gangster,Film,Jô Shishido | Mariko Ogawa | Annu Mari
+4ce2b8d4c7c64,1,A Prophet,Jacques Audiard,2009,France | Italy,Crime,Film,Tahar Rahim | Niels Arestrup | Adel Bencherif
+4ce2b6b117ad3,1,My Man Godfrey,Gregory La Cava,1936,USA,Comedy,Film,William Powell | Carole Lombard | Alice Brady
+4ce2b6bee8c0e,1,Padre padrone,Paolo and Vittorio Taviani,1977,Italy,Biopic,Film,Omero Antonutti | Saverio Marconi | Marcella Michelangeli
+4ce2b6b578412,1,Harakiri,Kobayashi Masaki,1962,Japan,Drama,Film,Tatsuya Nakadai | Shima Iwashita | Akira Ishihama
+4ce2b6baec685,1,Winstanley,Kevin Brownlow,1975,United Kingdom,Biopic | Historical drama,Film,Miles Halliwell | Jerome Willis | Terry Higgins
+4ce2b7dc96165,1,Fate,Fred Kelemen,1994,Germany,Drama,Film,Sanja Spengler | Valerij Fedorenko
+4ce2b6f0f169d,1,Back to the Future,Robert Zemeckis,1985,USA,Comedy | Crime | Science Fiction,Film,Michael J. Fox | Christopher Lloyd | Lea Thompson
+4ce2b6ab01897,1,Germany Year Zero,Roberto Rossellini,1948,France | Italy | Federal Republic of Germany,War,Film,Edmund Meschke | Ernst Pittschau | Ingetraud Hinze
+4ce2b7a386c30,1,The Match Factory Girl,Aki Kaurismaki,1990,Finland | Sweden,Drama,Film,Kati Outinen | Elina Salo | Esko Nikkari
+4ce2b8ab82dc7,1,The 3 Rooms of Melancholia,Pirjo Honkasalo,2004,Denmark | Finland | Germany | Norway | Sweden,Documentary,Film,Saiso Pirkko | Malik Gathev | Hadizhai Gatheva
+4ce2b8b037905,1,Marie Antoinette,Sofia Coppola,2005,France | Japan | USA,,Film,Kirsten Dunst | Jason Schwartzman | Judy Davis
+4ce2b7219ffd8,1,Greed,Erich von Stroheim,1925,USA,Drama,Film,ZaSu Pitts | Gibson Gowland | Jean Hersholt
+4ce2b8c2238ae,1,In Bruges,Martin McDonagh,2007,United Kingdom | USA,Comedy | Action and Adventure,Film,Colin Farrell | Brendan Gleeson | Ralph Fiennes
+4ce2b7a7c7114,1,Barton Fink,Joel & Ethan Coen,1991,USA,Drama,Film,John Turturro | John Goodman | Judy Davis
+4ce2b89ff1b9b,1,Star Spangled to Death,Ken Jacobs,2003,USA,Documentary,Film,Jack Smith | Jerry Sims | Gib Taylor
+4ce2b6cbc72f7,1,In the Year of the Pig,Emile de Antonio,1968,USA,Documentary | War,Film,John F. Dulles | Joe McCarthy | Ho Chi Minh
+4ce2b871173df,1,Far From Heaven,Todd Haynes,2002,France | USA,Drama,Film,Julianne Moore | Dennis Quaid | Dennis Haysbert
+4ce2b6b857cbf,1,Three Women,Robert Altman,1977,USA,Drama,Film,Shelley Duvall | Sissy Spacek | Janice Rule
+4ce2b6b7dafed,1,Teorema,Pier Paolo Pasolini,1968,Italy,Drama,Film,Terence Stamp | Silvana Mangano | Massimo Girotti
+4ce2b6bf4da96,1,Ben-Hur,William Wyler,1959,USA,Action and Adventure,Film,Charlton Heston | Jack Hawkins | Haya Harareet
+4ce2b6947702f,1,Four Friends,Arthur Penn,1981,USA,Drama,Film,Craig Wasson | Jodi Thelen | Michael Huddleston
+4ce2b79babba4,1,Miller's Crossing,Joel & Ethan Coen,1990,USA,Gangster,Film,Gabriel Byrne | Marcia Gay Harden | John Turturro
+4ce2b8de821d9,1,Nostalgia for the Light,Patricio Guzmán,2010,Chile | Spain | France | Germany | USA,Documentary,Film,Patricio Guzmán | Gaspar Galaz | Lautano Nunez
+4ce2b697da1aa,1,A Colour Box,Len Lye,1935,United Kingdom,Animation | Advert | Artists' Moving Image,Film,
+4ce2b69a3415f,1,A nos Amours,Maurice Pialat,1983,France,Drama,Film,Sandrine Bonnaire | Dominique Besnehard | Maurice Pialat
+4ce2b6afab3db,1,Mamma Roma,Pier Paolo Pasolini,1962,Italy,Drama,Film,Anna Magnani | Franco Citti | Ettore Garofalo
+4ce2b6ab0982b,1,The Ghost and Mrs Muir,Joseph L. Mankiewicz,1947,USA,Romance | Fantasy,Film,Gene Tierney | Rex Harrison | George Sanders
+4ce2b8255367b,1,The Colour of Paradise,Majid Majidi,1999,Iran,,Film,Hossein Mahjub | Mohsen Ramezani | Salime Feiza
+4ce2b6bb52642,1,Yellow Submarine,George Dunning,1968,United Kingdom | USA,Animation | Musical | Fantasy,Film,Paul Angelis | John Clive | Dick Emery
+4ce2b6bcdd06c,1,Demon Lover Diary,Joel DeMott,1980,USA,Documentary,Film,Joel DeMott | Donald G. Jackson | Jerry Younkins
+4ce2b6b89650f,1,Emperor Tomato Ketchup,Terayama Shuji,1971,Japan,Drama,Film,Keiko Niikata | Taro Apollo | Yoshiko Tanaki
+4ce2b6a8a630e,1,Les demoiselles de Rochefort,Jacques Demy,1967,France,Musical,Film,Catherine Deneuve | Françoise Dorléac | George Chakiris
+4ce2b7fca1e6b,1,Spiritual Voices,Aleksandr Sokurov,1996,Russian Federation,Documentary,Video,Andrei Gradov | Tatyana Gerjacheva
+4ce2b8a6a44a7,1,Moolaadé,Ousmane Sembene,2004,Cameroon | Burkina Faso (Upper Volta) | Morocco | Senegal | Tunisia,Drama,Film,Fatoumata Coulibaly | Maïmouna Hélène Diarra | Salimata Traore
+4ce2b6b013c42,1,Mary Poppins,Robert Stevenson,1964,USA,Musical | Fantasy,Film,Julie Andrews | Dick Van Dyke | David Tomlinson
+4ce2b6a76d983,1,Charulata,Satyajit Ray,1964,India,,Film,Soumitra Chatterjee | Madhabi Mukherjee | Sailen Mukherjee
+4ce2b6e318598,1,Full Moon in Paris,Eric Rohmer,1984,France,Drama,Film,Pascale Ogier | Tchéky Karyo | Fabrice Luchini
+10097,1,Reassemblange,T. Minh-ha Trinh,,,,,
+10011,1,Amadeus,Milos Forman,,,,,
+4ce2b6d6c891c,1,"Harlan County, USA",Barbara Kopple,1976,USA,Documentary,Film,
+4ce2b77d794bb,1,True Stories,David Byrne,1986,USA,Comedy | Musical,Film,John Goodman | Annie Mcenroe | Jo Harvey Allen
+4ce2b8d4c94ab,1,The Time that Remains,Elia Suleiman,2009,Belgium | Egypt | France | United Kingdom | Italy,Drama,Film,Menashe Noy | Elia Suleiman | Baher Agbariya
+4ce2b7c826c53,1,La naissance de l’amour,Philippe Garrel,1993,Switzerland | France,Drama,Film,Jean-Pierre Léaud | Lou Castel | Johanna ter Steege
+4ce2b73b27b13,1,The Long Voyage Home,John Ford,1940,USA,Drama,Film,John Wayne | Thomas Mitchell | Ian Hunter
+4ce2b79d60eb8,1,Looking for Langston,Isaac Julien,1989,United Kingdom,Drama,Film,Ben Ellison | Matthew Baidoo | Akim Mogaji
+4ce2b6a3274db,1,Nothing but the Hours,Alberto Cavalcanti,1926,France,Documentary | Artists' Moving Image,Film,Clifford McLaglen | Philippe Hériat | Nina Chouvalova
+4ce2b8c99a4f1,1,RR,James Benning,2008,Germany | USA,Documentary,Film,
+4ce2b6bbaea80,1,Intolerance,D.W. Griffith,1916,USA,Drama,Film,Lillian Gish | Mae Marsh | Fred Turner
+4ce2b693a1a98,1,Le Tempestaire,Jean Epstein,1947,France,Fantasy,Film,
+4ce2b8c0d9261,1,Sweeney Todd,Tim Burton,2007,United Kingdom | USA,Horror | Musical | Thriller,Film,Johnny Depp | Helena Bonham Carter | Alan Rickman
+4ce2b79763784,1,Women on the Verge of a Nervous Breakdown,Pedro Almodóvar,1988,Spain,Comedy,Film,Carmen Maura | Antonio Banderas | Julieta Serrano
+10141,1,Walter Defends Sarajevo,Hajrudin Krvavac,,,,,
+4ce2b72cca8a0,1,In a Year of 13 Moons,Rainer Werner Fassbinder,1978,Federal Republic of Germany,Romance | Drama,Film,Volker Spengler | Ingrid Caven | Gottfried John
+4ce2b6ac0d3a5,1,Saint Tukaram,Vishnupant Govind Damle/Sheikh Fattelal,1936,India,Biopic,Film,Vishnupant Pagnis | Miss Gouri | Kusum Bhagawat
+4ce2b6ae46987,1,King Lear,Grigori Kozintsev,1970,USSR,Drama,Film,Yuri Järvet | Elza Radzinya | Galina Volchek
+4ce2b6ae56e7c,1,Kwaidan,Kobayashi Masaki,1964,Japan,Anthology | Horror,Film,Rentarô Mikuni | Michiyo Aratama | Misako Watanabe
+4ce2b6c00289c,1,A nous la liberté,René Clair,1931,France,Comedy,Film,Henri Marchand | Raymond Cordy | Rolla France
+4ce2b85587159,1,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,Jonas Mekas,2000,USA,Documentary,Film,
+4ce2b765f258a,1,Le Samouraï,Jean-Pierre Melville,1967,France | Italy,Film noir,Film,Alain Delon | François Périer | Nathalie Delon
+4ce2b70324f56,1,"Come Back, Africa",Lionel Rogosin,1959,USA,Drama-documentary,Film,"people of Johannesburg, South Africa, The | Zacharia Mgabi | Vinah Benile"
+4ce2b6b7d56bb,1,High and Low,Akira Kurosawa,1963,Japan,Police drama | Crime,Film,Toshiro Mifune | Kyôko Kagawa | Tatsuya Mihashi
+4ce2b7462bc5f,1,I am Twenty,Marlen Khutsiyev,1963,USSR,Drama,Film,Vladimir Popov | N. Cubenko | Stanislav Liubshin
+4ce2b6ef0c801,1,Assunta Spina,Francesca Bertini,1914,Italy,Melodrama,Film,Francesca Bertini | Gustavo Serena | Carlo Benetti
+4ce2b8c3274bc,1,The Diving Bell and the Butterfly,Julian Schnabel,2007,France | USA,,Film,Mathieu Amalric | Emmanuelle Seigner | Marie-Josée Croze
+4ce2b6bd1e475,1,The Elephant Man,David Lynch,1980,USA,Biopic | Historical drama,Film,Anthony Hopkins | John Hurt | Anne Bancroft
+4ce2b6b5991f4,1,Shadows,John Cassavetes,1959,USA,Drama,Film,Ben Carruthers | Lelia Goldoni | Hugh Hurd
+4ce2b6b580d11,1,The Servant,Joseph Losey,1963,United Kingdom,Drama,Film,Dirk Bogarde | Sarah Miles | Wendy Craig
+4ce2b75a75449,1,Portrait of Ga,Margaret Tait,1952,United Kingdom,Artists' Moving Image,Film,
+4ce2b8d4c040e,1,Antichrist,Lars von Trier,2009,Denmark | France | Germany | Italy | Sweden,Horror,Film,Charlotte Gainsbourg | Willem Dafoe | Storm Acheche SahlstrØm
+4ce2b84e24d6c,1,The Milk of Human Kindness,Dominique Cabrera,2001,Belgium | France,Comedy,Film,Patrick Bruel | Marilyne Canto | Dominique Blanc
+4ce2b7717fdd4,1,The New York Ripper,Lucio Fulci,1982,Italy,Horror | Crime | Thriller,Film,Jack Hedley | Almanta Suska | Howard Ross
+4ce2b79a16168,1,Landscape in the Mist,Theodoros Angelopoulos,1988,France | Greece | Italy,Drama,Film,Michalis Zeke | Tania Palaiologou | Stratos Tzortzoglou
+4ce2b753f20d7,1,Paisà,Roberto Rossellini,1946,Italy,War,Film,Giulio Panicali | Stuart Legg | Raymond Spottiswoode
+4ce2b6af7d212,1,Mädchen in Uniform,Leontine Sagan/Carl Froelich,1931,Germany,Drama,Film,Dorothea Wieck | Hertha Thiele | Ellen Schwanneke
+4ce2b76077257,1,La Région Centrale,Michael Snow,1971,Canada,Documentary,Film,
+4ce2b8ab35dac,1,The Intruder,Claire Denis,2004,"France | Korea, Republic of",Drama,Film,Michel Subor | Grégoire Colin | Katya Golubeva
+10052,1,Sapphires,Wayne Blair,,,,,
+4ce2b6a7f029d,1,Le Corbeau,Henri-Georges Clouzot,1943,France,Drama,Film,Pierre Fresnay | Ginette Leclerc | Micheline Francey
+4ce2b6b04f4a1,1,The Merry Widow,Ernst Lubitsch,1934,USA,,Film,Maurice Chevalier | Jeanette Macdonald | Edward Everett Horton
+4ce2b8d0e7a55,1,Gran Torino,Clint Eastwood,2008,Australia | Germany | USA,Crime | Thriller,Film,Clint Eastwood | Bee Vang | Ahney Her
+4f4bb332e9cf5,1,Wuthering Heights,Andrea Arnold,2011,United Kingdom,Romance | Drama,Film,Kaya Scodelario | James Howson | Solomon Glave
+4ce2b894cfdd1,1,West of the Tracks,Wang Bing,2002,People's Republic of China,Documentary,Film,
+4ce2b6f550612,1,Bimbo's Initiation,Dave Fleischer,1931,USA,,Film,
+4ce2b6c02abf7,1,L'argent,Marcel L'Herbier,1928,France,Drama,Film,Brigitte Helm | Marie Glory | Yvette Guilbert
+4ce2b772bcb48,1,Stop Making Sense,Jonathan Demme,1984,USA,Performance,Film,David Byrne | Chris Frantz | Jerry Harrison
+4ce2b6b956eeb,1,"I Was Born, But…","Ozu Yasujirô ",1932,Japan,Comedy,Film,Tatsuo Saitô | Mitsuko Yoshikawa | Hideo Sugawara
+4ce2b71202028,1,L'Enfance nue,Maurice Pialat,1969,France,Drama,Film,Michel Tarrazon | Linda Gutemberg | Raoul Billerey
+10130,1,Ukuaru,Leida Laius,,,,,
+4ce2b7e649d1e,1,William Shakespeare's Romeo+Juliet,Baz Luhrmann,1996,Canada | USA,Drama,Film,Leonardo DiCaprio | Claire Danes | Brian Dennehy
+4ce2b8bb71533,1,Indio nacional,Raya Martin,2006,Philippines,,Film,Bodjie Pascua | Suzette Velasco | Lemuel Galman
+4ce2b7b637749,1,Unforgiven,Clint Eastwood,1992,USA,Western,Film,Clint Eastwood | Gene Hackman | Morgan Freeman
+4ce2b785edf38,1,Beware of a Holy Whore,Rainer Werner Fassbinder,1971,Italy | Federal Republic of Germany,Drama,Film,Lou Castel | Eddie Constantine | Marquard Böhm
+4ce2b7d231dab,1,Hoop Dreams,Steve James,1994,USA,Documentary,Film,Steve James | William Gates | Arthur Agee
+4ce2b74b1edea,1,Near Dark,Kathryn Bigelow,1987,USA,Horror,Film,Adrian Pasdar | Jenny Wright | Lance Henriksen
+4ce2b6b58c0c7,1,7th Heaven,Frank Borzage,1927,USA,Romance | Drama,Film,Janet Gaynor | Charles Farrell | Ben Bard
+4ce2b7b47bfd3,1,Malcolm X,Spike Lee,1992,USA,Biopic | Historical drama,Film,Denzel Washington | Angela Bassett | Albert Hall
+4ce2b79674d0e,1,Hotel Terminus,Marcel Ophüls,1988,USA,Biopic,Film,Jeanne Moreau | Johannes Schneider-Merck | Raymond Levy
+4ce2b6e926125,1,The Vampires of Poverty,Carlos Mayolo/Luis Ospina,1978,Colombia,Documentary,Film,Eduardo Carvajal | Ramiro Arbelaez | Luis A. Londono
+4ce2b6a70ad29,1,The Cameraman,Buster Keaton,1928,USA,Comedy | Romance,Film,Buster Keaton | Marceline Day | Harry Gribbon
+4ce2b75d39e3b,1,"Birds, Orphans and Fools",Juraj Jakubisko,1970,Czechoslovakia | France,Fantasy,Film,Philippe Avron | Magda Vásáryová | Jirí Sykora
+4ce2b6e8ec664,1,Afrique 50,René Vautier,1950,France,Documentary,Film,
+4ce2b69a654d2,1,Aventurera,Alberto Gout,1950,Mexico,Melodrama | Musical | Drama,Film,Ninón Sevilla | Tito Junco | Andrea Palma
+4ce2b6b9a848b,1,Vampyr,Carl Theodor Dreyer,1932,France | Germany,Horror,Film,Nicolas de Gunzburg | Henriette Gérard | Sybille Schmitz
+4ce2b749c5580,1,Dimensions of Dialogue,Jan Svankmajer,1982,Czechoslovakia,Animation,Film,
+4ce2b775be49c,1,Sweet Sweetback's Baadasssss Song,Melvin van Peebles,1971,USA,Thriller,Film,The Black Community | Melvin Van Peebles | Simon Chuckster
+4ce2b8a68ae93,1,Notre Music,Jean-Luc Godard,2004,Switzerland | France,Artists' Moving Image,Film,Sarah Adler | Nade Dieu | Jean-Christophe Bouvet
+4ce2b8d63ec1a,1,Mademoiselle Chambon,Stéphane Brizé,2009,France,Romance | Drama,Film,Vincent Lindon | Sandrine Kiberlain | Aure Atika
+4ce2b6b53e6c0,1,Scorpio Rising,Kenneth Anger,1964,USA,Artists' Moving Image,Film,Bruce Byron | Johnny Sapienza | Frank Carifi
+4ce2b6aaeb539,1,Claire's Knee,Eric Rohmer,1970,France,Drama,Film,Jean-Claude Brialy | Aurora Cornu | Béatrice Romand
+4ce2b6f693062,1,Blow Job,Andy Warhol,1964,USA,,Film,DeVerne Bookwalter
+4ce2b8aac28af,1,3-Iron,Kim Ki-Duk,2004,"Japan | Korea, Republic of",Crime,Film,Lee Seung-yeon | Jae Hee | Gweon Hyeok-ho
+4ce2b8ad44379,1,The Forest for the Trees,Maren Ade,2003,Germany,Drama,Film,Eva Löbau | Daniela Holtz | Jan Neumann
+4ce2b73474f39,1,The King of Comedy,Martin Scorsese,1983,USA,Comedy | Crime,Film,Robert De Niro | Jerry Lewis | Diahnne Abbott
+4ce2b77aecb21,1,Torre Bela,Thomas Harlan,1975,Switzerland | Italy | Portugal,,Film,
+4ce2b6a785eda,1,The Crucified Lovers,Mizoguchi Kenji,1954,Japan,Romance | Drama,Film,Kazuo Hasegawa | Kyôko Kagawa | Yoko Minamida
+4ce2b8000dbbb,1,The Big Lebowski,Joel & Ethan Coen,1998,United Kingdom | USA,Comedy | Thriller,Film,Jeff Bridges | John Goodman | Julianne Moore
+4ce2b89499e3f,1,Los Rubios,Albertina Carri,2003,Argentina,Documentary,Film,Analia Couceyro | Albertina Carri | Santiago Gifalt
+4ce2b6b42e4b1,1,Repulsion,Roman Polanski,1965,United Kingdom,Horror,Film,Catherine Deneuve | Ian Hendry | John Fraser
+4ce2b69d41586,1,Spare Time,Humphrey Jennings,1939,United Kingdom,Documentary,Film,Laurie Lee
+4ce2b69feebb1,1,The Laughing Man,Walter Heynowski/Gerhard Scheumann,1967,German Democratic Republic,Documentary,Film,
+4ce2b6ab939b3,1,Il Grido,Michelangelo Antonioni,1957,Italy | USA,Drama,Film,Steve Cochran | Alida Valli | Dorian Gray
+4ce2b6ae4e8dc,1,Wings,Larisa Shepitko,1966,USSR,War,Film,M. Buglakovaja | Zhanna Bulatova | Panteleimon Krymov
+4ce2b8ab9e747,1,Darwin's Nightmare,Hubert Sauper,2004,Austria | Belgium | France | Germany | Netherlands,Documentary,Film,Elizabeth Maganga Nsese | Raphael Tukiko Wagara | Dimond Remtulia
+4ce2b7234f9b8,1,Hannah and Her Sisters,Woody Allen,1986,USA,Comedy,Film,Woody Allen | Michael Caine | Mia Farrow
+4ce2b80cbfed8,1,The Idiots,Lars von Trier,1998,Denmark | France | Germany | Italy | Netherlands,Comedy | Drama,Film,Bodil JØrgensen | Jens Albinus | Anne Louise Hassing
+4ce2b7d2e38ee,1,Land and Freedom,Ken Loach,1995,Spain | France | United Kingdom | Germany | Italy,War,Film,Ian Hart | Rosana Pastor | Icíar Bollaín
+4ce2b7c751e79,1,Palomita Blanca,Raúl Ruiz,1993,Chile,Drama,Film,Beatriz Lapido | Rodrigo Ureta | Belgica Castro
+4ce2b6b62419c,1,I Even Met Happy Gypsies,Aleksandr Petrovic,1967,Yugoslavia,Melodrama,Film,Bekim Fehmiu | Olivera Katarina | Bata Zivojinovic
+4ce2b6bf4bc15,1,The Sporting Life,Lindsay Anderson,1963,United Kingdom,Sport,Film,Richard Harris | Rachel Roberts | Alan Badel
+4ce2b765aa1d5,1,Salesman,Albert Maysles/David Maysles/Charlotte Zwerin,1968,USA,Documentary,Film,Paul Brennan | Charles Mcdevitt | James Baker
+4ce2b6f69a0ef,1,Bluebeard's Eighth Wife,Ernst Lubitsch,1938,USA,Comedy,Film,Claudette Colbert | Gary Cooper | Edward Everett Horton
+4ce2b7cb68c05,1,The Last Bolshevik,Chris Marker,1993,Finland | France | United Kingdom,Documentary,Film,Michael Pennington | Nikolai Izvolov | Kira Paramonova
+4ce2b6ba6cefd,1,La Signora di Tutti,Max Ophüls,1934,Italy,Melodrama,Film,Isa Miranda | Memo Benassi | Tatiana Pavlova
+4ce2b6bea840e,1,Monty Python's Life of Brian,Terry Jones,1979,United Kingdom,Comedy,Film,Graham Chapman | John Cleese | Terry Gilliam
+4ce2b75cae6f8,1,Deep Red,Dario Argento,1975,Italy,Horror | Thriller,Film,David Hemmings | Daria Nicolodi | Gabriele Lavia
+4ce2b72b443d9,1,Here and Elsewhere,Jean-Luc Godard/Jean-Pierre Gorin/Groupe Dziga Vertov7Anne-Marie Miéville,1975,France,Documentary,Film,
+4ce2b7cb624b7,1,Underground,Emir Kusturica,1995,France | Germany | Hungary,Comedy,Film,Miki Manojlović | Laza Ristovski | Mirjana Jokovic
+4ce2b8a6cb24f,1,Whisky,Pablo Stoll/Juan Pablo Rebella,2004,Argentina | Spain | France | Germany | Uruguay,Drama,Film,Andrés Pazos | Mirella Pascual | Jorge Bolani
+4ce2b6abd4869,1,A Hard Day's Night,Richard Lester,1964,United Kingdom | USA,Musical,Film,John Lennon | Paul McCartney | George Harrison
+4ce2b6ee7ae68,1,Artists under the Big Top: Perplexed,Alexander Kluge,1968,Federal Republic of Germany,Drama,Film,Alexandra Kluge | Hannelore Hoger | Herr Hollenbeck
+4ce2b6adbf5f5,1,The Virgin Spring,Ingmar Bergman,1960,Sweden,Horror | Crime,Film,Max von Sydow | Birgitta Valberg | Gunnel Lindblom
+4ce2b6bdac955,1,The Great Rock and Roll Swindle,Julian Temple,1979,United Kingdom,Biopic,Film,Malcolm McLaren | Sid Vicious | John Lydon
+4f4b8b91a5380,1,We Need To Talk About Kevin,Lynne Ramsay,2011,United Kingdom | USA,Drama,Film,Tilda Swinton | John C. Reilly | Ezra Miller
+4ce2b7bebd5ca,1,The Age of Innocence,Martin Scorsese,1993,USA,Romance | Period drama,Film,Joanne Woodward | Daniel Day-Lewis | Michelle Pfeiffer
+4ce2b72f060ae,1,Tatooed Life,Suzuki Seijun,1965,Japan,Drama,Film,Hideki Takahashi | Kotobuki Hananomoto | Akira Yomauchi
+4ce2b69b90b75,1,Csontváry,Zoltán Huszárik,1979,Hungary,Biopic,Film,Ichak Finci | Margit Dayka | Ágnes Báfalvi
+4ce2b6f4888d4,1,No End,Krzysztof Kieslowski,1984,Poland,Drama,Film,Grazyna Szapolowska | Maria Pakulnis | Aleksander Bardini
+4ce2b6b03201f,1,The Cloud-Capped Star,Ritwik Ghatak,1960,India,Drama,Film,Supriya Devi | Anil Chatterjee | Bijon Bhattacharya
+10044,1,In Camera,Ranjan Palit,,,,,
+4ce2b80050531,1,Velvet Goldmine,Todd Haynes,1998,United Kingdom | USA,Drama,Film,Ewan McGregor | Jonathan Rhys Meyers | Toni Collette
+4ce2b88d3b9c8,1,Amor,Robert Beavers,2002,Switzerland | Italy | USA,Documentary,Film,
+4ce2b7569054d,1,Pered sudom istorii,Fridrikh Ermler,1965,USSR,Documentary,Film,Vassili Shulgin
+4ce2b7728708a,1,A Question of Silence,Marleen Gorris,1982,Netherlands,Drama,Film,Edda Barends | Nelly Frijda | Henriette Tol
+4ce2b6b253b86,1,Closely Observed Trains,Jiří Menzel,1966,Czechoslovakia,War,Film,Václav Neckár | Jitka Bendova | Vladimír Valenta
+4ce2b8dd46b52,1,Le Havre,Aki Kaurismaki,2010,Belgium | Finland | France | Germany | Norway,Drama,Film,André Wilms | Kati Outinen | Jean-Pierre Darroussin
+4ce2b7a30165c,1,My Own Private Idaho,Gus van Sant,1991,USA,Drama,Film,River Phoenix | Keanu Reeves | James Russo
+4ce2b6af6e08b,1,McCabe and Mrs Miller,Robert Altman,1971,USA,Western,Film,Warren Beatty | Julie Christie | René Auberjonois
+4ce2b73368f46,1,Kalpana,Uday Shankar,1948,India,Drama,Film,Uday Shankar | Amala Shankar
+4ce2b6bef2c13,1,Patrick,Richard Franklin,1978,Australia,Horror | Instructional film/TV programme,Film,Susan Penhaligon | Robert Helpmann | Rod Mullinar
+4ce2b7ac4482a,1,The Double Life of Veronique,Krzysztof Kieslowski,1991,France | Norway | Poland,Drama,Film,Irène Jacob | Halina Gryglaszewska | Kalina Jedrusik
+4ce2b77f75021,1,The Last Supper,Tomás Gutiérrez Alea,1976,Cuba,Period drama,Film,Silvano Rey | José Rodriguez | Nelson Villagra
+4ce2b6f16714f,1,Ballet mécanique,Fernand Léger/Dudley Murphy,1924,France,Documentary | Artists' Moving Image,Film,Katherine Murphy | Kiki | Fernand Léger
+4ce2b7deca58c,1,Fargo,Joel & Ethan Coen,1995,United Kingdom | USA,Police drama,Film,Frances McDormand | William H. Macy | Steve Buscemi
+4ce2b6bfd74ab,1,L'Amour fou,Jacques Rivette,1968,France,,Film,Bulle Ogier | Jean-Pierre Kalfon | Josée Destoop
+4ce2b82851832,1,Lumumba,Raoul Peck,2000,Belgium | France | Germany | Haiti,Biopic,Film,Eriq Ebouaney | Alex Descas | Maka Kotto
+4f4b9f666e4c8,1,Dekalog,Krzysztof Kieslowski,,Poland | Federal Republic of Germany,Drama,Television,
+4ce2b7c8951ef,1,The Puppetmaster,Hsiao-hsien Hou,1993,Taiwan,Biopic,Film,Li T'ien-lü | Lin Chieng | Chen K'uei-chung
+4ce2b8abec00a,1,Innocence,Lucile Hadzihalilovic,2004,Belgium | France | United Kingdom,Drama,Film,Zoé Auclair | Léa Bridarolli | Bérangère Haubruge
+4ce2b6ae52369,1,Kuhle Wampe,Bertold Brecht/Ernst Ottwald,1932,Germany,Drama,Film,Hertha Thiele | Ernst Busch | Martha Wolter
+4ce2b8d4c824d,1,The White Ribbon,Michael Haneke,2009,Austria | France | Germany | Italy,Drama,Film,Christian Friedel | Ernst Jacobi | Leonie Benesch
+4ce2b6b594796,1,Shadow of A Doubt,Alfred Hitchcock,1943,USA,Drama,Film,Teresa Wright | Joseph Cotten | MacDonald Carey
+10058,1,My Hand Outstretched to the Winged Distance and Sightless Measure,Robert Beavers,,,,,
+4ce2b6a791d34,1,"The Choses de la Vie, Les/Little Things in Life",Claude Sautet,1970,France | Italy,Drama,Film,Michel Piccoli | Romy Schneider | Gérard Lartigau
+4ce2b7fe0a16b,1,O Amor Natural,Heddy Honigmann,1996,Brazil | Netherlands,Documentary,Film,
+4ce2b6b95837b,1,Hope,Yilmaz Güney,1970,Turkey,Documentary,Film,Yilmaz Güney | GÜLSEN Alniaçcik | Gülsen Alniacik
+4ce2b6ebeb664,1,Anna and the Wolves,Carlos Saura,1972,Spain,Drama,Film,Geraldine Chaplin | Fernando Fernán Gómez | José Maria Prada
+4ce2b7d9d6408,1,Whispering Pages,Aleksandr Sokurov,1993,Germany | Russian Federation,Drama,Film,Aleksandr Cherednik | Elizaveta Korolyova | Sergei Barkovsky
+4ce2b78bbf98e,1,Witness,Peter Weir,1985,USA,Thriller,Film,Harrison Ford | Kelly McGillis | Josef Sommer
+4ce2b76c082e5,1,Simon of the Desert,Luis Buñuel,1965,Mexico,Biopic | Historical drama,Film,Claudio Brook | Enrique Álvarez Félix | Hortensia Santoveña
+4ce2b7a14132c,1,His Wife is a Hen,Igor Kovalyov,1989,USSR,Animation,Film,
+4ce2b7f8e002d,1,"Dr Mabuse, The Gambler",Fritz Lang,1922,Germany,Crime,Film,Rudolf Klein-Rogge | Aud Egede-Nissen | Gertrud Welcker
+4ce2b6a776274,1,Chelsea Girls,Andy Warhol/Paul Morrissey,1966,USA,Documentary,Film,Ondine | Ingrid Superstar | Eric Emerson
+4ce2b6b257773,1,Othello,Orson Welles,1952,Morocco,Drama,Film,Orson Welles | Micheál Macliammóir | Suzanne Cloutier
+10029,1,In The Dark,Sergei Dvortsevoy,,,,,
+4ce2b715a3953,1,Fantasia,Joe Grant/Dick Huerner,1940,USA,Anthology | Animation | Musical,Film,Leopold Stokowski | Philadelphia Symphony Orchestra | Deems Taylor
+4ce2b7d4298bc,1,Institute Benjamenta,Quay Brothers,1995,United Kingdom | Germany | Japan,Drama,Film,Andrzej Brych | Henryk Rzeznik | Pavel Czekala
+4ce2b6b507d7c,1,Blood of the Beasts,Georges Franju,1948,France,Documentary,Film,Georges Hubert | Nicole Ladmiral
+4ce2b7be41721,1,Once Upon a Time in China (II),Tsui Hark,1992,Hong Kong,Martial arts | Romance | Period drama,Film,Jet Li Lianjie | Rosamund Kwan Chi-lam | Yen Chi Tan
+4ce2b7051d628,1,Cosmic Ray,Bruce Conner,1962,USA,Artists' Moving Image,Film,
+10072,1,Summer In Narita,Ogawa Shinsuke,,,,,
+4ce2b69a67807,1,The Angelic Conversation,Derek Jarman,1985,United Kingdom,Artists' Moving Image,Film,Judi Dench | Paul Reynolds | Phillip Williamson
+4ce2b6b0b69c4,1,Mon Oncle,Jacques Tati,1958,France | Italy,Comedy,Film,Jacques Tati | Jean-Pierre Zola | Adrienne Servantie
+4ce2b6a754dd8,1,Le cercle rouge,Jean-Pierre Melville,1970,France | Italy,Crime,Film,Alain Delon | Bourvil | Gian Maria Volonté
+4ce2b6ee1a28e,1,Army of Shadows,Jean-Pierre Melville,1969,France | Italy,War,Film,Lino Ventura | Paul Meurisse | Jean-Pierre Cassel
+4ce2b6b0155c4,1,Masculin Féminin,Jean-Luc Godard,1966,France | Sweden,Drama,Film,Chantal Goya | Marlène Jobert | Catherine-Isabelle Duport
+4ce2b82b6b26b,1,Rosetta,Jean-Pierre Dardenne/Luc Dardenne,1999,Belgium | France,Drama,Film,Émilie Dequenne | Fabrizio Rongione | Anne Yernaux
+4ce2b6adbfe86,1,Jungle Book,Walt Disney Production,1967,USA,Animation,Film,Phil Harris | Sebastian Cabot | Louis Prima
+4ce2b735ae1c5,1,Koyaanisqatsi,Godfrey Reggio,1983,USA,Documentary,Film,
+4ce2b7a88a165,1,"Amanece, que no es poco",José Luis Cuerda,1989,Spain,,Film,Antonio Resines | Luis Ciges | José Sazatornil
+4ce2b8ab357e3,1,The World,"Jia Zhang Ke ",2004,People's Republic of China | France | Japan,Drama,Film,Zhao Tao | Cheng Tai Shen | Wang Hong Wei
+4ce2b6b2398e8,1,On The Waterfront,Elia Kazan,1954,USA,Crime | Drama,Film,Marlon Brando | Karl Malden | Lee J. Cobb
+4ce2b8c0ad06d,1,Rome Rather Than You,Tariq Teguia,2006,Algeria | France | Germany,,Film,Rachid Amrani | Samira Kaddour | Ahmed Benaïssa
+4ce2b6b913eb2,1,True Heart Susie,D.W. Griffith,1919,USA,Drama,Film,Lillian Gish | Robert Harron | Wilbur Higby
+4ce2b6c00c15f,1,The Father,Istvan Szabo,1966,Hungary,Drama,Film,Miklós Gábor | Klári Tolnay | András Bálint
+4ce2b6be2b91c,1,Kagemusha,Akira Kurosawa,1980,Japan,War | Period drama,Film,New Japan Philharmonic Orchestra | Tatsuya Nakadai | Tsutomu Yamazaki
+4ce2b75fe2a9d,1,Reconstruction,Lucian Pintilie,1968,Romania,Drama,Film,George Constantin | Emil Botta | George Mihaita
+4ce2b6b209ea3,1,Los olvidados,Luis Buñuel,1950,Mexico,Crime | Drama,Film,Estela Inda | Miguel Inclán | Alfonso Mejía
+4ce2b6b73f34a,1,"Steamboat Bill, Jr.",Buster Keaton,1928,USA,Comedy,Film,Buster Keaton | Ernest Torrence | Marion Byron
+4ce2b861b56d0,1,The Royal Tenenbaums,Wes Anderson,2001,USA,,Film,Alec Baldwin | Gene Hackman | Anjelica Huston
+4f4bade9f1ea0,1,The Wire,David Simon,,USA,Crime,Television,
+4ce2b69593482,1,Videodrome,David Cronenberg,1983,Canada,Horror | Science Fiction | Fantasy | Thriller,Film,James Woods | Sonja Smits | Debbie Harry
+4ce2b6b90075a,1,Tristana,Luis Buñuel,1970,Spain | France | Italy,Drama,Film,Catherine Deneuve | Fernando Rey | Franco Nero
+4f4b8d15e3b14,1,The Artist,Michel Hazanavicius,2011,Belgium | France,Romance | Drama,Film,Jean Dujardin | Bérénice Bejo | James Cromwell
+4ce2b74b3a87e,1,Don't Worry,George Danelia,1969,USSR,Comedy,Film,Vakhtang Kikabidze | Sergo Zakariadze | Anastasia Virtinskaya
+4ce2b78da502c,1,I am Cuba,Mikhail Kalatozov,1964,Cuba | USSR,Drama,Film,Sergio Corrieri | Salvador Wood | José Gallardo
+10140,1,Malerei heute,Anja-Christin Remmert/Stefan Hayn,,,,,
+4ce2b6bc8b5aa,1,Ceddo,Ousmane Sembene,1976,Senegal,Drama,Film,Tabara Ndiaye | Alioune Fall | Moustapha Iade
+4ce2b8c918a9b,1,Anvil: The Story of Anvil,Sacha Gervasi,2008,USA,Documentary | Performance,Film,Malcolm Dome | Lars Ulrich | Scott Ian
+4ce2b82a4bd18,1,Cousin,Adam Elliot,1998,Australia,Animation,Film,William Mcinnes
+4ce2b8e05eddc,1,Attenberg,Athina Tsangari,2010,Greece,Drama,Film,Ariane Labed | Vangelis Mourikis | Evangelia Randou
+4ce2b86c76b63,1,Goodbye Lenin!,Wolfgang Becker,2003,Germany,Drama,Film,Daniel Brühl | Katrin Sass | Maria Simon
+4ce2b6bce92a0,1,The Devil Probably,Robert Bresson,1977,France,Drama,Film,Antoine Monnier | Tina Irissari | Henri de Maublanc
+4ce2b87fa510a,1,Russian Ark,Aleksandr Sokurov,2002,Canada | Finland | Germany | Japan | Russian Federation,Period drama,Film,Sergei Dreiden | Maria Kouznetsova | Leonid Mozgovoy
+4ce2b75c2a5c0,1,The Rise to Power of Louis XIV,Roberto Rossellini,1966,France,Historical drama,Television,Jean-Marie Patte | Raymond Jourdan | Silvagni
+4ce2b6bc0b5d2,1,Arabesque,Germaine Dulac,1929,France,,Film,
+4ce2b8ab7a567,1,Evolution of a Filipino Family,Lav Díaz,2004,Philippines,Drama,Film,Angie Ferro | Pen Medina
+4ce2b6bd93670,1,The Marriage of Maria Braun,Rainer Werner Fassbinder,1979,Federal Republic of Germany,Drama,Film,Hanna Schygulla | Klaus Löwitsch | Ivan Desny
+4ce2b6b303966,1,The Philadelphia Story,George Cukor,1940,USA,Comedy | Romance,Film,Cary Grant | Katharine Hepburn | James Stewart
+4ce2b6b256ea0,1,Father of a Soldier,Rezo Chkheidze,1965,Georgia,Drama,Film,Sergo Zakariadze | Ketevan Bochorishvilli | I. Nizharadze
+4ce2b6b354eeb,1,Il Posto,Ermanno Olmi,1961,Italy,Drama,Film,Loredana Detto | Sandro Panzeri | Tullio Kezich
+4ce2b7cb412c6,1,Blue,Derek Jarman,1993,United Kingdom | Japan,Biopic | Artists' Moving Image,Film,John Quentin | Nigel Terry | Derek Jarman
+4ce2b8caae875,1,Pray the Devil Back to Hell,Gini Reticker,2008,USA,Documentary,Film,Leymah Gbowee | Asatu Bah Kenneth | Vaiba Flomo
+4ce2b6bea6f6f,1,My American Uncle,Alain Resnais,1980,France,Comedy | Romance | Drama,Film,Gérard Depardieu | Nicole Garcia | Roger Pierre
+4ce2b806b10cc,1,Princess Mononoke,Miyazaki Hayao,1997,Japan,Animation | Fantasy,Film,Tokyo City Philharmonic Orchestra | Billy Crudup | Billy Bob Thornton
+4ce2b6bca4479,1,Close Encounters of the Third Kind,Steven Spielberg,1977,USA,Science Fiction,Film,Richard Dreyfuss | François Truffaut | Teri Garr
+4ce2b72a4d92a,1,Yellow Earth,Chen Kaige,1984,People's Republic of China,Drama,Film,The Peasant Waist Drum Troupe of Ansai Count | Wang Xueqi | Xue Bai
+4ce2b7949bbfa,1,Dead Ringers,David Cronenberg,1988,Canada | USA,Horror | Thriller,Film,Jeremy Irons | Geneviève Bujold | Heidi von Palleske
+4ce2b6a70cd80,1,Chimes at Midnight,Orson Welles,1966,Switzerland | Spain,Period drama,Film,Ralph Richardson | Ralph Holinshed | Orson Welles
+4ce2b7bb4b449,1,Lessons of Darkness,Werner Herzog,1992,Germany,Documentary,Film,
+4ce2b8bf4bf6f,1,Letters from Iwo Jima,Clint Eastwood,2006,USA,,Film,Ken Watanabe | Kazunari Ninomiya | Tsuyoshi Ihara
+4ce2b6bbb8b86,1,The Circus,Charles Chaplin,1928,USA,Comedy,Film,Charles Chaplin | Merna Kennedy | Betty Morrissey
+4ce2b6aa02bb7,1,Une femme est une femme,Jean-Luc Godard,1961,France | Italy,Drama,Film,Jean-Claude Brialy | Anna Karina | Jean-Paul Belmondo
+4ce2b6a76bf31,1,The Discreet Charm of the Bourgeoisie,Luis Buñuel,1972,Spain | France | Italy,Comedy,Film,Fernando Rey | Paul Frankeur | Delphine Seyrig
+4ce2b6a992f80,1,The Errand Boy,Jerry Lewis,1961,USA,Comedy,Film,Jerry Lewis | Brian Donlevy | Howard McNear
+4ce2b6a55273b,1,Blackmail,Alfred Hitchcock,1929,United Kingdom,Police drama,Film,Anny Ondra | Sara Allgood | Charles Paton
+4ce2b7421cc0a,1,Maurice,James Ivory,1987,United Kingdom,Drama,Film,James Wilby | Hugh Grant | Rupert Graves
+4ce2b6ba13dd9,1,The Ascent,Larisa Shepitko,1976,USSR,War,Film,Boris Plotnikov | Vladimir Gostyukhin | Sergei Jakovlev
+4ce2b6a57d76e,1,Blonde Venus,Josef von Sternberg,1932,USA,Drama,Film,Marlene Dietrich | Herbert Marshall | Cary Grant
+4ce2b6b10e49d,1,My Childhood,Bill Douglas,1972,United Kingdom,Drama,Film,Stephen Archibald | Hughie Restorick | Jean Taylor Smith
+4ce2b6b1ca138,1,La nuit du carrefour,Jean Renoir,1932,France,Crime | Thriller,Film,Pierre Renoir | Winna Winfried | Georges Koudria
+4ce2b693a235d,1,Entranced Earth,Glauber Rocha,1967,Brazil,Drama,Film,Jardel Filho | José Lewgoy | Glauce Rocha
+4ce2b6b90373c,1,Three Rooms in Manhattan,Marcel Carné,1964,France,Drama,Film,Annie Girardot | Maurice Ronet | O.E. Hasse
+4ce2b6b78bfc0,1,Tabu,F. W. Murnau,1931,USA,Drama,Film,Robert Flaherty | Anne Chevalier | William Bambridge
+4ce2b6ae874d8,1,The Last Command,Josef von Sternberg,1928,USA,Drama,Film,Emil Jannings | Evelyn Brent | William Powell
+4ce2b76b642d8,1,Siberiade,Andrei Konchalovsky,1979,USSR,Drama,Film,Vladimir Samoilov | Vitaly Solomin | Nikita Mikhalkov
+4ce2b6e9c78a5,1,The Tree of Wooden Clogs,Ermano Olmi,1978,Italy,Period drama,Film,Luigi Ornaghi | Francesca Moriggi | Omar Brignoli
+4ce2b8b7b28dc,1,The Lives of Others,Florian Henckel von Donnersmarck,2006,Germany,Drama,Film,Martina Gedeck | Ulrich Mühe | Sebastian Koch
+4ce2b8dae9f0f,1,The King's Speech,Tom Hooper,2010,Australia | United Kingdom,Historical drama,Film,Colin Firth | Geoffrey Rush | Helena Bonham Carter
+4ce2b7d06e733,1,The Wrong Trousers,Nick Park,1993,United Kingdom,Animation | Fantasy,Film,Peter Sallis
+4ce2b6a9745ce,1,Elvira Madigan,Bo Widerberg,1967,Sweden,Drama,Film,Pia Degermark | Thommy Berggren | Lennart Malmer
+10093,1,The Lodger,Alfred Hitchcock,,,,,
+4ce2b71b9a45d,1,French Cancan,Jean Renoir,1955,France | Italy,Period drama,Film,Jean Gabin | María Félix | Françoise Arnoul
+4ce2b7a36431f,1,Thelma & Louise,Ridley Scott,1991,USA,Road movie,Film,Susan Sarandon | Geena Davis | Harvey Keitel
+4ce2b6bbe7916,1,All the President's Men,Alan J Pakula,1976,USA,Drama,Film,Dustin Hoffman | Robert Redford | Jack Warden
+4ce2b79d45458,1,Mystery Train,Jim Jarmusch,1989,Japan | USA,Drama,Film,Masatoshi Nagase | Youki Kudoh | Screamin' Jay Hawkins
+4ce2b6b13a8e0,1,Nana,Jean Renoir,1926,France | Germany,Melodrama | Period drama,Film,Pierre Lestringuez | Catherine Hessling | Jacqueline Forzane
+4ce2b749a2cbb,1,A Movie,Bruce Conner,1958,USA,Anthology,Film,
+4ce2b8db92d5d,1,The Arbor,Clio Barnard,2010,United Kingdom,Biopic,Film,Manjinder Virk | Neil Dudgeon | Monica Dolan
+4ce2b6afdc8ac,1,My Night with Maud,Eric Rohmer,1969,France,Drama,Film,Jean-Louis Trintignant | Françoise Fabian | Marie-Christine Barrault
+4ce2b6a89cf25,1,Deep End,Jerzy Skolimowski,1970,United Kingdom | Federal Republic of Germany,Drama,Film,Jane Asher | John Moulder-Brown | Karl-Michael Vogler
+4ce2b6b483615,1,Rocky Horror Picture Show,Jim Sharman,1975,United Kingdom,Horror | Parody | Musical | Science Fiction,Film,Tim Curry | Susan Sarandon | Barry Bostwick
+4ce2b79f1ada9,1,Breakfast on the grass,Priit Pärn,1987,USSR,Animation,Film,
+4ce2b7773fd96,1,The Seasons of the Year,Artavazd Pelechian,1975,Armenia | USSR,Documentary,Film,
+4ce2b6b688abd,1,Murmur of the Heart,Louis Malle,1971,France | Italy | Federal Republic of Germany,Drama,Film,Lea Massari | Benoît Ferreux | Daniel Gélin
+4ce2b7bbaef5d,1,Mad Max,George Miller,1979,Australia,Police drama | Science Fiction,Film,Mel Gibson | Joanne Samuel | Hugh Keays-Byrne
+4ce2b6bcc7768,1,From the Clouds to the Resistance,Jean-Marie Straub/Danièle Huillet,1979,France | United Kingdom | Italy | Federal Republic of Germany,Period drama,Film,Olimpia Carlisi | Guido Lombardo | Gino Felici
+4ce2b81796df6,1,The Straight Story,David Lynch,1999,France | United Kingdom | USA,Road movie | Drama,Film,Richard Farnsworth | Sissy Spacek | Harry Dean Stanton
+4ce2b8678c28a,1,Talk to Her,Pedro Almodóvar,2002,Spain,Drama,Film,Javier Cámara | Darío Grandinetti | Leonor Watling
+4ce2b6a657475,1,Breakfast at Tiffany's,Blake Edwards,1961,USA,Comedy,Film,Audrey Hepburn | George Peppard | Patricia Neal
+4ce2b6fcb7c36,1,Carlito's Way,Brian De Palma,1993,USA,Gangster,Film,Al Pacino | Sean Penn | Penelope Ann Miller
+4f4b8b7e5ef90,1,A Separation,Asghar Farhadi,2011,Iran,Drama,Film,Leila Hatami | Peyman Moaadi | Shahab Hosseini
+10138,1,Auf dem Weg,Peter Schreiner,,,,,
+4ce2b6d500444,1,The Battle of Chile: Part 2,Patricio Guzmán,1976,Chile | Cuba,Documentary,Film,
+4ce2b80fa8694,1,Toy Story 2,John Lasseter/Ash Brannon/Lee Unkrich,1999,USA,Animation,Film,Tom Hanks | Tim Allen | Joan Cusack
+4ce2b724190c3,1,Les hautes solitudes,Philippe Garrel,1974,France,Documentary,Film,Jean Seberg | Laurent Terzieff | Tina Aumont
+4ce2b6ad8cc72,1,"Je t'aime, je t'aime",Alain Resnais,1968,France,Science Fiction | Drama,Film,Claude Rich | Olga Georges-Picot | Anouk Ferjac
+4ce2b6ba5932a,1,Week End,Jean-Luc Godard,1967,France | Italy,Drama,Film,Mireille Darc | Jean Yanne | Jean-Pierre Kalfon
+4ce2b79d52351,1,Yeelen,Souleymane Cisse,1987,German Democratic Republic | France | Burkina Faso (Upper Volta) | Mali,Drama,Film,Issiaka Kane | Aoua Sangare | Niamanto Sanogo
+4ce2b6b3e64d3,1,Random Harvest,Mervyn LeRoy,1942,USA,Romance,Film,Ronald Colman | Greer Garson | Fritz van Dongen
+4ce2b78f168f3,1,Land of Fathers,Shaken Aimanov,1966,USSR,,Film,E. Umurzakov | M. Akhmadiev
+4ce2b87747e7e,1,The Five Obstructions,Jørgen Leth/Lars von Trier,2003,Belgium | Switzerland | Denmark | France | Sweden,Documentary,Film,Jørgen Leth | Patrick Bauchau | Lars von Trier
+4ce2b6a477be9,1,An Affair to Remember,Leo McCarey,1957,USA,Melodrama | Romance,Film,Cary Grant | Deborah Kerr | Richard Denning
+4ce2b6a4e46d5,1,Becky Sharp,Rouben Mamoulian,1935,USA,Period drama,Film,Miriam Hopkins | Frances Dee | Cedric Hardwicke
+4ce2b74a0e043,1,The Night of Counting the Years,Shadi Abdel Salam,1970,Egypt,Historical drama,Film,Ahmed Marei | Zouzou Hamdi el-Hakim | Ahmed Hegazi
+4ce2b7d2abfbc,1,The Silences of the Palace,Moufida Tlatli,1994,France | Tunisia,Drama,Film,Amel Hedhili | Hend Sabri | Najia Ouerghi
+10012,1,Balle traversant une bulle de savon,Lucien Bull,,,,,
+4ce2b8de19d82,1,Poetry,Lee Chang-dong,2010,,,,
+4ce2b79d587a4,1,Goodfellas,Martin Scorsese,1990,USA,Gangster | Drama,Film,Robert De Niro | Ray Liotta | Joe Pesci
+4ce2b697b0230,1,"Three, Two, One",Lino Brocka,1975,Philippines,Anthology,Film,Lolita Rodriguez | Hilda Koronel | Perla Bautista
+4ce2b6b68d44c,1,The Sound of Music,Robert Wise,1965,USA,Musical | Historical drama,Film,Julie Andrews | Christopher Plummer | Richard Haydn
+4ce2b6b39aa39,1,Protea,Victorin-Hippolyte Jasset,1913,France,,Film,
+4ce2b6b8e2503,1,The Treasure of Sierra Madre,John Huston,1947,USA,Crime,Film,Humphrey Bogart | Walter Huston | Tim Holt
+4ce2b6af75692,1,Macunaima/Jungle Freaks,Joaquim Pedro de Andrade,1969,Brazil,Comedy | Fantasy,Film,Grande Otélo | Paulo José | Dina Sfat
+4ce2b6bb6c6eb,1,Young Mr Lincoln,John Ford,1939,USA,Biopic | Legal and Courtroom drama | Historical drama,Film,Henry Fonda | Alice Brady | Marjorie Weaver
+4ce2b8bd202b2,1,Atonement,Joe Wright,2007,France | United Kingdom | USA,Drama,Film,James McAvoy | Keira Knightley | Romola Garai
+4ce2b6b9c572e,1,The Bartered Bride,Max Ophüls,1932,Germany,,Film,Max Nadler | Jarmila Novotna | Otto Wernicke
+10042,1,""Diary"",David Perlov,,,,,
+4ce2b6b1495b2,1,Winter Light,Ingmar Bergman,1962,Sweden,Drama,Film,Ingrid Thulin | Gunnar Björnstrand | Gunnel Lindblom
+4ce2b6a9a615f,1,Europa 51,Roberto Rossellini,1952,Italy,Drama,Film,Ingrid Bergman | Alexander Knox | Ettore Giannini
+4ce2b6a7632ec,1,The Chapman Report,George Cukor,1962,USA,Drama,Film,Shelley Winters | Jane Fonda | Claire Bloom
+4ce2b6a712b88,1,A Canterbury Tale,Michael Powell/Emeric Pressburger,1944,United Kingdom,War,Film,Eric Portman | Sheila Sim | Dennis Price
+4ce2b6b2d1c76,1,Pepe Le Moko,Julien Duviver,1937,France,Thriller,Film,Jean Gabin | Gabriel Gabrio | Saturnin Fabre
+4ce2b734329b0,1,Carnival in Flanders,Jacques Feyder,1935,France,Comedy | Period drama,Film,Françoise Rosay | Jean Murat | Alerme
+4ce2b6938b54a,1,O Lucky Man!,Lindsay Anderson,1973,United Kingdom | USA,Comedy | Fantasy,Film,Malcolm McDowell | Ralph Richardson | Rachel Roberts
+4ce2b8d1e06d1,1,Inglourious Basterds,Quentin Tarantino,2009,Germany | USA,War,Film,Brad Pitt | Christoph Waltz | Michael Fassbender
+4ce2b6a60d68c,1,Happiness,Agnès Varda,1965,France,Drama,Film,Jean-Claude Drouot | Claire Drouot | Sandrine Drouot
+4ce2b6bd1d8e2,1,Edvard Munch,Peter Watkins,1976,Norway | Sweden,Biopic,Television,Peter Watkins | Geir Westby | Gro Fraas
+4ce2b7f21b141,1,The River,Tsai Ming Liang,1997,Taiwan,Drama,Film,Miao Tien | Lee Kang-sheng | Lu Hsiao-lin
+4ce2b72a49470,1,A Touch of Zen,King Hu,1969,Taiwan,Martial arts | Action and Adventure | Drama,Film,Shih Chun | Hsu Feng | Pai Ying
+4ce2b8c0866ac,1,London 66'-67'- Pink Floyd,Peter Whitehead,1967,United Kingdom,,Film,Pink Floyd | Syd Barrett | Nick Mason
+4ce2b6b7d5c6e,1,Shadows of Our Forgotten Ancestors,Sergei Parajanov,1964,USSR,Drama,Film,Ivan Mikolaichuk | Larisa Kadochnikova | Tatiana Bestaeva
+4ce2b6af628f9,1,Lumière d'été,Jean Grémillon,1942,France,Drama,Film,Madeleine Renaud | Pierre Brasseur | Madeleine Robinson
+4ce2b7bce9af1,1,The Quince Tree Sun,Víctor Erice,1992,Spain,Biopic | Documentary,Film,Antonio López | María José Moreno | Enrique Gran
+4ce2b6bea4f4f,1,"I, a Negro",Jean Rouch,1959,France,Documentary,Film,Oumarou Ganda | Touré Mohammed | Gambi
+4ce2b6a74931b,1,Cat People,Jacques Tourneur,1943,USA,Horror,Film,Simone Simon | Kent Smith | Tom Conway
+4ce2b6a96caa6,1,El,Luis Buñuel,1953,Mexico,Drama,Film,Arturo De Córdova | Delia Garcés | Aurora Walker
+4ce2b779c2a6f,1,Titicut Follies,Frederick Wiseman,1967,USA,Documentary,Film,
+4ce2b6b00a236,1,The Marriage Circle,Ernst Lubitsch,1923,USA,Comedy,Film,Monte Blue | Florence Vidor | Creighton Hale
+4ce2b79c18343,1,Alice,Jan Svankmajer,1988,Switzerland | United Kingdom | Federal Republic of Germany,Animation,Film,Kristyna Kohoutova | Camilla Power
+4ce2b6bae34c0,1,The Wind,Victor Sjöström,1928,USA,Western,Film,Lillian Gish | Lars Hanson | Montagu Love
+4ce2b7e61eb15,1,Trainspotting,Danny Boyle,1995,United Kingdom,Drama,Film,Ewan McGregor | Ewen Bremner | Jonny Lee Miller
+4ce2b8a643692,1,Metallica: Some Kind of Monster,"Joe Berlinger, Bruce Sinofsky",2004,USA,Documentary,Film,James Hetfield | Lars Ulrich | Kirk Hammett
+4ce2b6b2c1e26,1,Donkey Skin,Jacques Demy,1970,France,Musical | Fantasy,Film,Catherine Deneuve | Jean Marais | Jacques Perrin
+4ce2b7965be62,1,Wings of Desire,Wim Wenders,1987,France | Federal Republic of Germany,Romance | Fantasy,Film,Bruno Ganz | Solveig Dommartin | Otto Sander
+4ce2b6a95ae0f,1,East of Eden,Elia Kazan,1955,USA,Drama,Film,Julie Harris | James Dean | Raymond Massey
+4ce2b7e221593,1,Toy Story,John Lasseter,1995,USA,Animation,Film,Tom Hanks | Tim Allen | Don Rickles
+4ce2b8ae95065,1,Paradise Now,Hany Abu-Assad,2005,France | Germany | Israel | Netherlands,,Film,Kais Nashef | Ali Suliman | Lubna Azabal
+4ce2b8144d35a,1,Of Freaks and Men,Alexey Balabanov,1998,Russian Federation,Drama,Film,Sergei Makovetsky | Dinara Droukarova | Lika Nevolina
+4ce2b71279653,1,Epidemic,Lars von Trier,1987,Denmark,Horror,Film,Susanne Ottesen | Allan De Wall | Ole Ernst
+4ce2b71209a69,1,L'Enfant Secret,Philippe Garrel,1983,France,Romance | Drama,Film,Anne Wiazemsky | Henri de Maublanc | Xuan Lindemayer
+4ce2b7319a325,1,Police Story,Jackie Chan,1985,Hong Kong,Police drama | Drama,Film,Jackie Chan | Brigitte Lin Ching-hsia | Maggie Cheung Man-yuk
+4ce2b69ad035e,1,Born in Flames,Lizzie Borden,1983,USA,Comedy | Drama,Film,Honey | Adele Bertei | Jeanne Satterfield
+4ce2b7dbc88c3,1,The Kingdom,Lars von Trier,1997,Denmark | Germany | Norway | Sweden,Comedy,Television,Danish Radio Concert Orchestra | Frans Rasmussen | Ernst-Hugo JäregÅrd
+4ce2b75f4052d,1,Ran,Akira Kurosawa,1985,France | Japan,Drama,Film,Tatsuya Nakadai | Akira Terao | Jinpachi Nezu
+4ce2b8c553641,1,"Winnipeg, My",Guy Maddin,2007,Canada | USA,Drama-documentary,Film,Robert Enright | Guy Maddin | Ann Savage
+4ce2b8517abf7,1,Platform,"Jia Zhang Ke ",2000,Switzerland | France | Hong Kong | Japan | Netherlands,Drama,Film,Wang Hong Wei | Zhao Tao | Liang Jing Dong
+4ce2b7dc5ee6f,1,La Haine,Mathieu Kassovitz,1995,France,Drama,Film,Vincent Cassel | Hubert Koundé | Saïd Taghmaoui
+4ce2b7fac7dc2,1,Funny Games,Michael Haneke,1997,Austria,Thriller,Film,Susanne Lothar | Ulrich Mühe | Arno Frisch
+4ce2b6b34cdda,1,Portrait of Jason,Shirley Clarke,1967,USA,Documentary,Film,Aaron Paine | Shirley Clarke | Carl Lee
+4ce2b6f95cd00,1,Broken Blossoms,D.W. Griffith,1919,USA,Romance | Drama,Film,Lillian Gish | Richard Barthelmess | Donald Crisp
+4ce2b70b2b559,1,Devdas,Bimal Roy,1955,India,Musical | Romance | Drama,Film,Dilip Kumar | Suchitra Sen | Vyjayanthimala
+4ce2b6aa9d289,1,Freaks,Tod Browning,1932,USA,Drama,Film,Wallace Ford | Leila Hyams | Olga Baclanova
+4ce2b72936c2b,1,Les Petites guerres,Maroun Baghdadi,1982,Lebanon,Documentary,Film,Soraya Khoury | Roger Hawa | Nabil Ismail
+4ce2b8b9be14b,1,Syndromes and a Century,Apichatpong Weerasethakul,2006,Austria | France | Netherlands | Thailand,Drama,Film,Nantarat Sawaddikul | Jaruchai Iamaram | Sophon Pukanok
+4ce2b7972a879,1,A Short Film About Killing,Krzysztof Kieslowski,1987,Poland,Drama,Film,Miroslaw Baka | Krzysztof Globisz | Jan Tesarz
+4ce2b8d5a069b,1,Dogtooth,Yorgos Lanthimos,2009,Greece,Drama,Film,Christos Stergioglou | Michelle Valley | Aggeliki Papoulia
+4ce2b8d9b4630,1,Episode 3 – ‘Enjoy Poverty’,Renzo Martens,2009,Belgium | Netherlands,,Film,
+4ce2b6bf512e1,1,The House of Trubnaia Square,Boris Barnet,1928,USSR,Drama,Film,Vera Maretskaya | Vladimir Fogel | Elena Tiapkina
+4ce2b78333cc7,1,The Truth About Bebe Donde,Henri Decoin,1952,France,Drama,Film,Madeleine Lambert | Danielle Darrieux | Jean Gabin
+4ce2b8152bc43,1,Fight Club,David Fincher,1999,Germany | USA,Drama,Film,Brad Pitt | Edward Norton | Helena Bonham Carter
+4ce2b78d7365c,1,WR: Mysteries of the Organism,Dusan Makavejev,1971,Yugoslavia | Federal Republic of Germany,Drama,Film,Milena Dravic | Ivica Vidovic | Jagoda Kaloper
+4ce2b6b2b2db6,1,Passport to Pimlico,Henry Cornelius,1949,United Kingdom,Comedy,Film,Stanley Holloway | Betty Warren | Barbara Murray
+4ce2b7bbf047a,1,Nargess,Rakhshan Bani-Etemad,1992,Iran,Gangster,Film,Abolfazi Poorarab | Farimah Farjami | Atefeh Razavi
+4ce2b8da4b55a,1,Sea Point Days,François Verster,2009,South Africa,Documentary,Film,
+4ce2b6b0c0145,1,Moonfleet,Fritz Lang,1955,USA,Crime | Period drama,Film,Stewart Granger | George Sanders | Joan Greenwood
+4ce2b6a880126,1,David Holzman's Diary,Jim McBride,1968,USA,Comedy | Drama,Film,L.M. Kit Carson | Eileen Dietz | Louise Levine
+4ce2b776255f6,1,The Round-Up,Miklos Jancso,1966,Hungary,Period drama,Film,János Görbe | Zoltán Latinovits | Tibor Molnár
+4ce2b6ae68b9c,1,The Lady from Shanghai,Orson Welles,1947,USA,Film noir,Film,Rita Hayworth | Orson Welles | Everett Sloane
+4ce2b6bbbce8d,1,A King In New York,Charles Chaplin,1957,United Kingdom,Comedy,Film,Charles Chaplin | Dawn Addams | Oliver Johnston
+4ce2b8be31f68,1,Still Life,"Jia Zhang Ke ",2006,People's Republic of China | Hong Kong,,Film,Zhao Tao | Han Sanming | Wang Hong Wei
+4ce2b6a77fbf5,1,Cheyenne Autumn,John Ford,1964,USA,Western,Film,Richard Widmark | Carroll Baker | Karl Malden
+4de8953ecb64f,1,Surviving Life (Theory and Practice),Jan Svankmajer,2010,Czech Republic,Comedy | Animation,Film,Vaclav Helsus | Klára Issová | Zuzana Krónerová
+4ce2b7fd6185b,1,Beshkempir,Aktan Arym Kubat,1998,France | Kyrgyzstan,Drama,Film,Mirlan Abdykalykov | Albina Imasheva | Adir Abilkassimov
+4ce2b751e8589,1,Opus I,Walter Ruttmann,1922,Germany,Animation,Film,
+10013,1,Profit & Nothing But! Or Impolite Thoughts on the Class Struggle,Raoul Peck,,,,,
+4ce2b6be609f4,1,"Love Affair, or the Case of the Missing Switchboard Operator",Dusan Makavejev,1967,Yugoslavia,Drama,Film,Eva Ras | Slobodan Aligrudic | Ruzica Sokic
+4ce2b6a6b65d6,1,"The Good, the Bad and the Ugly",Sergio Leone,1966,Italy,Spaghetti western,Film,Clint Eastwood | Lee Van Cleef | Aldo Giuffrè
+4ce2b6b30b703,1,Picnic At Hanging Rock,Peter Weir,1975,Australia,Period drama,Film,Rachel Roberts | Dominic Guard | Helen Morse
+4ce2b73638802,1,The Ladies Man,Jerry Lewis,1961,USA,Comedy,Film,Jerry Lewis | Helen Traubel | Kathleen Freeman
+4ce2b72b789cf,1,If….,Lindsay Anderson,1968,United Kingdom | USA,Drama,Film,Malcolm McDowell | David Wood | Richard Warwick
+4ce2b6afc62fe,1,Man in the White Suit,Alexander Mackendrick,1951,United Kingdom,Comedy | Science Fiction,Film,Alec Guinness | Joan Greenwood | Cecil Parker
+4ce2b7c726e08,1,Rebels of the Neon God,Tsai Ming Liang,1992,Hong Kong | Taiwan,Drama,Film,Chen Chao-jung | Wang Yu-wen | Lee Kang-sheng
+4ce2b8d3835b2,1,Johnny Gaddaar,Sriram Raghavan,2007,India,Crime | Thriller,Film,Dharmendra | Rimi Sen | Neil Mukesh
+4ce2b6ad18b56,1,Minnie,Jacqueline Audry,1950,France,Drama,Film,Danièle Delorme | Frank Villard | Jean Tissier
+4ce2b8c344300,1,"Synecdoche, New York",Charlie Kaufman,2008,USA,Comedy | Drama,Film,Philip Seymour Hoffman | Samantha Morton | Michelle Williams
+4ce2b6a003354,1,Olympia,Leni Riefenstahl,1938,Germany,Sport,Film,Berlin Philharmonic Orchestra
+4ce2b6b4ef7fb,1,Salvatore Giuliano,Francesco Rosi,1962,Italy,Crime | Biopic,Film,Frank Wolff | Salvo Randone | Federico Zardi
+4f4b8d17bedb4,1,Melancholia,Lars von Trier,2011,Denmark | France | Germany | Italy | Sweden,Science Fiction | Drama,Film,Kirsten Dunst | Charlotte Gainsbourg | Alexander Skarsgård
+4ce2b6b846033,1,Three Godfathers,John Ford,1948,USA,Western,Film,John Wayne | Pedro Armendáriz | Harry Carey Jr
+4ce2b6b4f0c3b,1,Sambizanga,Sara Maldoror,1972,Angola | Congo | France,Drama,Film,Ana Wilson | Domingos Oliviera | Elisa Andrade
+10125,1,Cosmopolis,David Cronenberg,,,,,
+4ce2b74c67bc2,1,"New York, New York",Martin Scorsese,1977,USA,Musical,Film,Liza Minnelli | Robert De Niro | Lionel Stander
+4ce2b69aedb78,1,The Breakfast Club,John Hughes,1985,USA,Drama,Film,Emilio Estevez | Paul Gleason | Anthony Michael Hall
+4ce2b70180c21,1,Manila by Night,Ishmael Bernal,1981,Philippines,Drama,Film,Charito Solis | Johnny Wilson | William Martinez
+4ce2b7a4d53a4,1,Europa,Lars von Trier,1991,Denmark | France | Germany | Sweden,Drama,Film,Max von Sydow | Jean-Marc Barr | Barbara Sukowa
+4ce2b6a5512da,1,Fétiche,Wladyslaw Starewicz,1933,France,Animation,Film,
+4ce2b6b542fa8,1,Screen Tests,Andy Warhol,1965,USA,,Film,
+4ce2b840c118e,1,Amelie,Jean-Pierre Jeunet,2001,France | Germany,Drama,Film,Audrey Tautou | Mathieu Kassovitz | Rufus
+4ce2b8c558855,1,Up,Pete Docter/Bob Peterson,2009,USA,Comedy | Animation | Action and Adventure,Film,Edward Asner | Christopher Plummer | Jordan Nagai
+4ce2b6be7d19a,1,Manhattan,Woody Allen,1979,USA,Comedy,Film,Woody Allen | Diane Keaton | Michael Murphy
+4ce2b6b2e4012,1,Peter Ibbetson,Henry Hathaway,1935,USA,Drama,Film,Ann Harding | John Halliday | Gary Cooper
+4ce2b76321ea4,1,Ritual in Transfigured Time,Maya Deren,1946,USA,,Film,Rita Christiani | Frank Westbrook | Anaïs Nin
+4ce2b8b552831,1,Instructions for a Light and Sound Machine,Peter Tscherkassky,2005,Austria,,Film,
+4ce2b6bbedecf,1,An American in Paris,Vincente Minnelli,1951,USA,Musical,Film,Gene Kelly | Leslie Caron | Oscar Levant
+4ce2b8cbedf13,1,La Morte Rouge,Víctor Erice,2006,Spain,,Film,Víctor Erice
+4ce2b70e49bb7,1,Down By Law,Jim Jarmusch,1986,USA | Federal Republic of Germany,Comedy | Drama,Film,Tom Waits | John Lurie | Roberto Benigni
+4ce2b6fec6e4f,1,Un Chant d'amour,Jean Genet,1950,France,Artists' Moving Image,Film,Lucien Sénemaud | Java | Coco Le Martiniquais
+4ce2b6b5c4f6e,1,The Shop Around the Corner,Ernst Lubitsch,1940,USA,Romance,Film,Margaret Sullavan | James Stewart | Frank Morgan
+4ce2b8a8db651,1,Match Point,Woody Allen,2005,United Kingdom | USA | Luxembourg,Drama,Film,Brian Cox | Matthew Goode | Scarlett Johansson
+4ce2b8ba7acf5,1,I Am (Jestem),Dorota Kedzierzawska,2006,Poland,,Film,Piotr Jagielski | Agnieszka Nagorzycka | Edyta Jungowska
+4ce2b8517ba97,1,"Smell of Camphor, Fragrance of Jasmine",Bahman Farmanara,2000,Iran,Drama,Film,Bahman Farman Ara | Roya Nonahali | Reza Kianian
+4ce2b6b9c2a9c,1,The Executioner,Luis García Berlanga,1963,Spain | Italy,Drama,Film,Nino Manfredi | José Isbert | Emma Penella
+4ce2b754c80b5,1,A Passage to India,David Lean,1984,United Kingdom | USA,Drama,Film,Judy Davis | Victor Banerjee | Peggy Ashcroft
+4ce2b6bce510b,1,Germany in Autumn,"Alf Brustellin, Rainer Werner
+Fassbinder, Alexander Kluge, Maximiliane Mainka, Beate
+Mainka-Jellinghaus, Peter Schubert, Bernhard Sinkel, Hans Peter Cloos,
+Edgar Reitz, Katja Rupé, Volker Schlöndorff",1978,Federal Republic of Germany,Drama,Film,Hannelore Hoger | Katja Rupé | Hans Peter Cloos
+4ce2b6b523375,1,Scarface,Howard Hawks,1932,USA,Gangster | Crime,Film,Paul Muni | Ann Dvorak | Karen Morley
+4ce2b7ab0effa,1,Bullet in the Head,John Woo,1990,Hong Kong,Crime | Thriller,Film,Tony Leung Chiu-wai | Jacky Cheung Hok-yau | Waise Lee Chi-hung
+4ce2b69f2a88f,1,Don't Look Back,D.A. Pennebaker,1967,USA,Documentary,Film,Bob Dylan | Joan Baez | Donovan Leitch
+4ce2b6ad7924c,1,How to be Loved,Wojciech Has,1962,Poland,Drama,Film,Barbara Krafft | Zbigniew Cybulski | Artur Mlodnicki
+4ce2b77c23343,1,The Traitors,Raymundo Gleyzer,1973,Argentina,Documentary,Film,Victor Proncet | Raul Fraire | Susana Lanteri
+50c30ab0647b1,1,Amour,Michael Haneke,,Austria | France | Germany,Romance | Drama,Film,Jean-Louis Trintignant | Emmanuele Riva | Isabelle Huppert
+4ce2b6e742567,1,Love Streams,John Cassavetes,1984,USA,Drama,Film,Gena Rowlands | John Cassavetes | Diahnne Abbott
+4ce2b866b7c27,1,Balzac and The Little Chinese Seamstress,Sijie Dai,2002,People's Republic of China | France,Comedy | Romance | Drama,Film,Zhou Xun | Liu Ye | Chen Kun
+4ce2b6ab13b2e,1,Gilda,Charles Vidor,1946,USA,Film noir,Film,Rita Hayworth | Glenn Ford | George Macready
+4ce2b76692c72,1,Slow Motion,Jean-Luc Godard,1979,Austria | Switzerland | France | Federal Republic of Germany,Drama,Film,Isabelle Huppert | Jacques Dutronc | Nathalie Baye
+4ce2b797c7731,1,Om Dar-ba-Dar,Kamal Swaroop,1988,India,Artists' Moving Image,Film,Aditya Lakhia | Laxi Narayan | Narayan
+4ce2b879ae21a,1,Divine Intervention,Elia Suleiman,2002,France | Germany | Morocco | Netherlands | USA,Drama,Film,Elia Suleiman | Manal Khader | Nayef Fahoum Daher
+4ce2b8afad408,1,Mais im Bundeshuus : Le Génie Helvétique,Jean-Stéphane Bron,2003,Switzerland,,Film,
+4ce2b7e680583,1,Secrets and Lies,Mike Leigh,1996,United Kingdom,Drama,Film,Timothy Spall | Brenda Blethyn | Phyllis Logan
+4ce2b765bca7e,1,Salome,Alla Nazimova,1923,USA,Drama,Film,Alla Nazimova | Rose Dione | Mitchell Lewis
+4ce2b8e05fc7e,1,Tse,Roee Rosen,2010,Israel,Documentary,Film,Ela Shapira | Yoana Gonen
+4ce2b6b40237d,1,Rebecca,Alfred Hitchcock,1940,USA,Melodrama | Thriller,Film,Laurence Olivier | Joan Fontaine | George Sanders
+4ce2b6bc1e641,1,Cairo Station,Youssef Chahine,1958,Egypt,Drama,Film,Mike & His Skyrockets | Farid Shawki | Hind Rostom
+4ce2b6bf4c8c4,1,On the Town,Stanley Donen/Gene Kelly,1949,USA,Musical,Film,Gene Kelly | Frank Sinatra | Betty Garrett
+4ce2b736ee9c0,1,Killer of Sheep,Charles Burnett,1977,USA,Drama,Film,Henry G. Sanders | Kaycee Moore | Charles Bracy
+4ce2b6a596c11,1,The Adventures of Prince Achmed,Lotte Reiniger,1926,Germany,Animation | Fairy tale,Film,Berthold Bartosch
+4ce2b6abb251e,1,Adebar,Peter Kubelka,1957,Austria,Artists' Moving Image,Film,
+4ce2b84f04d77,1,Memento,Christopher Nolan,2000,USA,Thriller,Film,Guy Pearce | Carrie-Anne Moss | Joe Pantoliano
+4ce2b6ad95dac,1,The Pornographers,Imamura Shohei,1966,Japan,Comedy,Film,Shoichi Ozawa | Sumiko Sakamoto | Masaomi Kondo
+4ce2b872dd8ff,1,The Son,Jean-Pierre Dardenne/Luc Dardenne,2002,Belgium | France,Drama,Film,Olivier Gourmet | Morgan Marinne | Isabelle Soupart
+4ce2b7fdef9f7,1,Mother and Son,Aleksandr Sokurov,1997,Germany | Russian Federation,Drama,Film,Gudrun Geyer | Aleksei Ananishnov | Judy Winter
+4ce2b6aa93659,1,The Flowers of St Francis,Roberto Rossellini,1950,Italy,,Film,Gianfranco Bellini | Lee Kresel | Aldo Fabrizi
+4ce2b6abb48ac,1,The Naked Island,"Shindo Kaneto ",1961,Japan,Artists' Moving Image,Film,Nobuko Otowa | Taiji Tonoyama | Shinji Tanaka
+4ce2b76ef072a,1,Spione,Fritz Lang,1928,Germany,Thriller,Film,Rudolf Klein-Rogge | Gerda Maurus | Lien Deyers
+4de99ef2d8b6c,1,A Serbian Film,Srdjan Spasojevic,2010,Serbia,,Film,Srdan Todorovic | Sergei Trifunović | Jelena Gavrilovic
+4ce2b8b97c3b2,1,Zodiac,David Fincher,2007,USA,,Film,Jake Gyllenhaal | Mark Ruffalo | Robert Downey Jr
